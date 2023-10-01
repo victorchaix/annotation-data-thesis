@@ -1,0 +1,5143 @@
+[
+  {
+    "id": "Glfknix2Ee6R6zNUj07v-w",
+    "authority": "hypothes.is",
+    "url": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+    "created": "2023-07-27T12:07:05",
+    "updated": "2023-07-27T12:07:05",
+    "title": "slugs.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "cyberfae1312",
+    "displayName": null,
+    "text": "core",
+    "prefix": "praxis with Careful Slugs oozes ",
+    "exact": "an invitationtowards alternative practices for Computer Science in whichwhat exists now is moistened into, and where questions ofclass, race, gender, and disability––that might otherwise beobscured––are non-deterministically present.",
+    "suffix": "We would like to acknowledge and",
+    "start": 33947,
+    "end": 34180,
+    "tags": [
+      "important"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+        "selector": [
+          {
+            "end": 34180,
+            "type": "TextPositionSelector",
+            "start": 33947
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "an invitationtowards alternative practices for Computer Science in whichwhat exists now is moistened into, and where questions ofclass, race, gender, and disability––that might otherwise beobscured––are non-deterministically present.",
+            "prefix": "praxis with Careful Slugs oozes ",
+            "suffix": "We would like to acknowledge and"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "slugs.pdf"
+      ]
+    }
+  },
+  {
+    "id": "BnDqDCx2Ee6C6WubXb4maw",
+    "authority": "hypothes.is",
+    "url": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+    "created": "2023-07-27T12:06:32",
+    "updated": "2023-07-27T12:06:32",
+    "title": "slugs.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "cyberfae1312",
+    "displayName": null,
+    "text": "hm",
+    "prefix": "9) within CS (Computer Science).",
+    "exact": "With Careful Slugs we do not wish to tokenize orinstrumentalize more-than-humans by rendering them beingsonly valuable for what metaphor humans can extract fromthem.",
+    "suffix": " Rather, Careful Slugs undo them",
+    "start": 33563,
+    "end": 33728,
+    "tags": [
+      "trouble"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+        "selector": [
+          {
+            "end": 33728,
+            "type": "TextPositionSelector",
+            "start": 33563
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "With Careful Slugs we do not wish to tokenize orinstrumentalize more-than-humans by rendering them beingsonly valuable for what metaphor humans can extract fromthem.",
+            "prefix": "9) within CS (Computer Science).",
+            "suffix": " Rather, Careful Slugs undo them"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "slugs.pdf"
+      ]
+    }
+  },
+  {
+    "id": "3IVGUix1Ee68L__hqehyVA",
+    "authority": "hypothes.is",
+    "url": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+    "created": "2023-07-27T12:05:21",
+    "updated": "2023-07-27T12:05:21",
+    "title": "slugs.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "cyberfae1312",
+    "displayName": null,
+    "text": "",
+    "prefix": "herwise may have goneunnoticed; ",
+    "exact": "caring for sticky moments and moments ofstuckness that slow down and allow for pausing to attend tothe less perceptible.",
+    "suffix": "As Careful Slugs move through tr",
+    "start": 32982,
+    "end": 33102,
+    "tags": [
+      "important"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+        "selector": [
+          {
+            "end": 33102,
+            "type": "TextPositionSelector",
+            "start": 32982
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "caring for sticky moments and moments ofstuckness that slow down and allow for pausing to attend tothe less perceptible.",
+            "prefix": "herwise may have goneunnoticed; ",
+            "suffix": "As Careful Slugs move through tr"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "slugs.pdf"
+      ]
+    }
+  },
+  {
+    "id": "zW79lCx0Ee6Tz6O7Q1Bb0g",
+    "authority": "hypothes.is",
+    "url": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+    "created": "2023-07-27T11:57:46",
+    "updated": "2023-07-27T11:57:46",
+    "title": "slugs.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "cyberfae1312",
+    "displayName": null,
+    "text": "tone",
+    "prefix": "ing along the cusp ofunknowing. ",
+    "exact": "While reading, consider the images that we madecelebrating each of the slugs, in whose honor we have writtenthese fictions.",
+    "suffix": " These images were created as di",
+    "start": 23538,
+    "end": 23661,
+    "tags": [],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+        "selector": [
+          {
+            "end": 23661,
+            "type": "TextPositionSelector",
+            "start": 23538
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "While reading, consider the images that we madecelebrating each of the slugs, in whose honor we have writtenthese fictions.",
+            "prefix": "ing along the cusp ofunknowing. ",
+            "suffix": " These images were created as di"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "slugs.pdf"
+      ]
+    }
+  },
+  {
+    "id": "hTP5-Cx0Ee6mYA_I9ecaxQ",
+    "authority": "hypothes.is",
+    "url": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+    "created": "2023-07-27T11:55:45",
+    "updated": "2023-07-27T11:55:45",
+    "title": "slugs.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "cyberfae1312",
+    "displayName": null,
+    "text": "manifesto?",
+    "prefix": "stions, and technical inquiries.",
+    "exact": "For CS",
+    "suffix": "CS (Careful Slugs) has everythin",
+    "start": 8234,
+    "end": 8240,
+    "tags": [],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+        "selector": [
+          {
+            "end": 8240,
+            "type": "TextPositionSelector",
+            "start": 8234
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "For CS",
+            "prefix": "stions, and technical inquiries.",
+            "suffix": "CS (Careful Slugs) has everythin"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "slugs.pdf"
+      ]
+    }
+  },
+  {
+    "id": "ZgSczCx0Ee6OKv8-OFZISA",
+    "authority": "hypothes.is",
+    "url": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+    "created": "2023-07-27T11:54:53",
+    "updated": "2023-07-27T11:54:53",
+    "title": "slugs.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "cyberfae1312",
+    "displayName": null,
+    "text": "",
+    "prefix": "rt McRuer and MerriLisa Johnson’",
+    "exact": "s cripistemological framework which attends to“the places where bodily edges and the categoricaldistinctions blur or dissolve''",
+    "suffix": " (2014, 149–69). Through working",
+    "start": 7575,
+    "end": 7702,
+    "tags": [
+      "definition"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+        "selector": [
+          {
+            "end": 7702,
+            "type": "TextPositionSelector",
+            "start": 7575
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "s cripistemological framework which attends to“the places where bodily edges and the categoricaldistinctions blur or dissolve''",
+            "prefix": "rt McRuer and MerriLisa Johnson’",
+            "suffix": " (2014, 149–69). Through working"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "slugs.pdf"
+      ]
+    }
+  },
+  {
+    "id": "WmS_yCx0Ee6dGPtorALDwQ",
+    "authority": "hypothes.is",
+    "url": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+    "created": "2023-07-27T11:54:33",
+    "updated": "2023-07-27T11:54:33",
+    "title": "slugs.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "cyberfae1312",
+    "displayName": null,
+    "text": "wanna know more about that",
+    "prefix": " McRuer and MerriLisa Johnson’s ",
+    "exact": "cripistemologica",
+    "suffix": "l framework which attends to“the",
+    "start": 7577,
+    "end": 7593,
+    "tags": [],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+        "selector": [
+          {
+            "end": 7593,
+            "type": "TextPositionSelector",
+            "start": 7577
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "cripistemologica",
+            "prefix": " McRuer and MerriLisa Johnson’s ",
+            "suffix": "l framework which attends to“the"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "slugs.pdf"
+      ]
+    }
+  },
+  {
+    "id": "HciOgix0Ee6XnIORcVJ6og",
+    "authority": "hypothes.is",
+    "url": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+    "created": "2023-07-27T11:52:52",
+    "updated": "2023-07-27T11:52:52",
+    "title": "slugs.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "cyberfae1312",
+    "displayName": null,
+    "text": "",
+    "prefix": "). Careful Slugs help usto ask: ",
+    "exact": "Who is this creating accessibility for?",
+    "suffix": " Where is alt textused? Who is p",
+    "start": 6541,
+    "end": 6580,
+    "tags": [
+      "important"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+        "selector": [
+          {
+            "end": 6580,
+            "type": "TextPositionSelector",
+            "start": 6541
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Who is this creating accessibility for?",
+            "prefix": "). Careful Slugs help usto ask: ",
+            "suffix": " Where is alt textused? Who is p"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "slugs.pdf"
+      ]
+    }
+  },
+  {
+    "id": "h9XDIixzEe6lS1vcDjG0xw",
+    "authority": "hypothes.is",
+    "url": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+    "created": "2023-07-27T11:48:40",
+    "updated": "2023-07-27T11:48:40",
+    "title": "slugs.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "cyberfae1312",
+    "displayName": null,
+    "text": "",
+    "prefix": "st/article/view/37723/30027 3/24",
+    "exact": "namings, cruising (Muñoz 2009), feelings, pockets, tooling upand down (MELT 2020), oozing, stimming (Scientist Stims,n.d.), reading (Smilges 2021), dreaming, writing (Brown 2021),making, smelling, rhythms and flows (Gumbs 2018), tunings(Gabrys 2016), cusps, insensibilities (Yusoff 2013), and waywardpractice (Hartman 2019).",
+    "suffix": " Our work on CS emerges out of t",
+    "start": 3350,
+    "end": 3674,
+    "tags": [
+      "important"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+        "selector": [
+          {
+            "end": 3674,
+            "type": "TextPositionSelector",
+            "start": 3350
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "namings, cruising (Muñoz 2009), feelings, pockets, tooling upand down (MELT 2020), oozing, stimming (Scientist Stims,n.d.), reading (Smilges 2021), dreaming, writing (Brown 2021),making, smelling, rhythms and flows (Gumbs 2018), tunings(Gabrys 2016), cusps, insensibilities (Yusoff 2013), and waywardpractice (Hartman 2019).",
+            "prefix": "st/article/view/37723/30027 3/24",
+            "suffix": " Our work on CS emerges out of t"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "slugs.pdf"
+      ]
+    }
+  },
+  {
+    "id": "VPphOix2Ee6C6m8rEioTgg",
+    "authority": "hypothes.is",
+    "url": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+    "created": "2023-07-27T12:08:43",
+    "updated": "2023-07-27T12:08:43",
+    "title": "slugs.pdf",
+    "refs": [
+      "h9XDIixzEe6lS1vcDjG0xw"
+    ],
+    "isReply": true,
+    "isPagenote": true,
+    "user": "hd_onions",
+    "displayName": "anonymous onion",
+    "text": "!tooling down",
+    "prefix": "",
+    "exact": "",
+    "suffix": "",
+    "tags": [],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf"
+      }
+    ],
+    "document": {
+      "title": [
+        "slugs.pdf"
+      ]
+    }
+  },
+  {
+    "id": "dB6xwixzEe6lSt9MxPeXog",
+    "authority": "hypothes.is",
+    "url": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+    "created": "2023-07-27T11:48:07",
+    "updated": "2023-07-27T11:48:07",
+    "title": "slugs.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "cyberfae1312",
+    "displayName": null,
+    "text": "",
+    "prefix": "more metaphors for practices of:",
+    "exact": "scandal and enjoyment, friendships, refusals, inaction, mucusmembranes, hums, modes of survival, modes ofnon/commitment, queering damage",
+    "suffix": " (Pritchard et al. 2020),25/07/2",
+    "start": 2979,
+    "end": 3115,
+    "tags": [
+      "important"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+        "selector": [
+          {
+            "end": 3115,
+            "type": "TextPositionSelector",
+            "start": 2979
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "scandal and enjoyment, friendships, refusals, inaction, mucusmembranes, hums, modes of survival, modes ofnon/commitment, queering damage",
+            "prefix": "more metaphors for practices of:",
+            "suffix": " (Pritchard et al. 2020),25/07/2"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "slugs.pdf"
+      ]
+    }
+  },
+  {
+    "id": "T2kPnixzEe6Qztcl9-XwUQ",
+    "authority": "hypothes.is",
+    "url": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+    "created": "2023-07-27T11:47:05",
+    "updated": "2023-07-27T11:47:05",
+    "title": "slugs.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "cyberfae1312",
+    "displayName": null,
+    "text": "donna haraway style with SF",
+    "prefix": "ning-making practice, wepropose ",
+    "exact": "CS (the acronym for Computer Science) be replacedas an indeterminate acronym CS (in which C and S arereplaced with metaphors)",
+    "suffix": " inside and outside computerscie",
+    "start": 2144,
+    "end": 2269,
+    "tags": [],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+        "selector": [
+          {
+            "end": 2269,
+            "type": "TextPositionSelector",
+            "start": 2144
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "CS (the acronym for Computer Science) be replacedas an indeterminate acronym CS (in which C and S arereplaced with metaphors)",
+            "prefix": "ning-making practice, wepropose ",
+            "suffix": " inside and outside computerscie"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "slugs.pdf"
+      ]
+    }
+  },
+  {
+    "id": "DMZOuCxzEe6Xmv9WRVOptA",
+    "authority": "hypothes.is",
+    "url": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+    "created": "2023-07-27T11:45:14",
+    "updated": "2023-07-27T11:45:14",
+    "title": "slugs.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "cyberfae1312",
+    "displayName": null,
+    "text": "like the formulation",
+    "prefix": "using protective mucous layers; ",
+    "exact": "to makechemical binds sticky enough to hold in-place inconclusivelyyet with possibilities of lubricating accountability.",
+    "suffix": " We inviteyou to sink with us in",
+    "start": 1484,
+    "end": 1604,
+    "tags": [
+      "important"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+        "selector": [
+          {
+            "end": 1604,
+            "type": "TextPositionSelector",
+            "start": 1484
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "to makechemical binds sticky enough to hold in-place inconclusivelyyet with possibilities of lubricating accountability.",
+            "prefix": "using protective mucous layers; ",
+            "suffix": " We inviteyou to sink with us in"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "slugs.pdf"
+      ]
+    }
+  },
+  {
+    "id": "9cN2vixyEe6dpU83eQN-Yw",
+    "authority": "hypothes.is",
+    "url": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+    "created": "2023-07-27T11:44:35",
+    "updated": "2023-07-27T11:44:35",
+    "title": "slugs.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "cyberfae1312",
+    "displayName": null,
+    "text": "",
+    "prefix": "y basedsolutionisms beckon some ",
+    "exact": "defensive slime",
+    "suffix": ". As those thattraverse ever-shi",
+    "start": 1010,
+    "end": 1025,
+    "tags": [
+      "key-word"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+        "selector": [
+          {
+            "end": 1025,
+            "type": "TextPositionSelector",
+            "start": 1010
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "defensive slime",
+            "prefix": "y basedsolutionisms beckon some ",
+            "suffix": ". As those thattraverse ever-shi"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "slugs.pdf"
+      ]
+    }
+  },
+  {
+    "id": "SDHsSis0Ee6JGyOyfCC5rg",
+    "authority": "hypothes.is",
+    "url": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+    "created": "2023-07-25T21:43:24",
+    "updated": "2023-07-27T09:01:06",
+    "title": "slugs.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "",
+    "prefix": "rishings that are ongoingwithin ",
+    "exact": "CS (Community Successes",
+    "suffix": ") that are committed todisabilit",
+    "start": 7158,
+    "end": 7181,
+    "tags": [
+      "key-word"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+        "selector": [
+          {
+            "end": 7181,
+            "type": "TextPositionSelector",
+            "start": 7158
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "CS (Community Successes",
+            "prefix": "rishings that are ongoingwithin ",
+            "suffix": ") that are committed todisabilit"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "slugs.pdf"
+      ]
+    }
+  },
+  {
+    "id": "OadLcCs0Ee6cCNsmTyxxzw",
+    "authority": "hypothes.is",
+    "url": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+    "created": "2023-07-25T21:43:00",
+    "updated": "2023-07-25T21:53:39",
+    "title": "slugs.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "goals",
+    "prefix": "be calledupon when beginning to ",
+    "exact": "design a community infrastructure,and/or developing a queer operating system",
+    "suffix": ", and/ordesigning as crip techno",
+    "start": 6891,
+    "end": 6967,
+    "tags": [
+      "important"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+        "selector": [
+          {
+            "end": 6967,
+            "type": "TextPositionSelector",
+            "start": 6891
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "design a community infrastructure,and/or developing a queer operating system",
+            "prefix": "be calledupon when beginning to ",
+            "suffix": ", and/ordesigning as crip techno"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "slugs.pdf"
+      ]
+    }
+  },
+  {
+    "id": "c5F_Yis1Ee6kEP8E9i-c_Q",
+    "authority": "hypothes.is",
+    "url": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+    "created": "2023-07-25T21:51:46",
+    "updated": "2023-07-25T21:51:46",
+    "title": "slugs.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "",
+    "prefix": "noscienceas metaphoric practice ",
+    "exact": "we love Slugs as they are misfittingcompanions, not to be exterminated nor extracted from.",
+    "suffix": " Wefind experiences of misfittin",
+    "start": 33183,
+    "end": 33273,
+    "tags": [
+      "<3"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+        "selector": [
+          {
+            "end": 33273,
+            "type": "TextPositionSelector",
+            "start": 33183
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "we love Slugs as they are misfittingcompanions, not to be exterminated nor extracted from.",
+            "prefix": "noscienceas metaphoric practice ",
+            "suffix": " Wefind experiences of misfittin"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "slugs.pdf"
+      ]
+    }
+  },
+  {
+    "id": "uxd1aisyEe6jpJv0P0ClAA",
+    "authority": "hypothes.is",
+    "url": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+    "created": "2023-07-25T21:32:18",
+    "updated": "2023-07-25T21:32:18",
+    "title": "slugs.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "colonial modes of assorting, separating, categorising ",
+    "prefix": "livewithin and struggle amidst. ",
+    "exact": "The violent realities and historiesof computer science that we refer to include the way thatcomputation normalizes, optimizes, and makes operationalthrough computation colonial and eugenic modes such assorting, separating, categorizing, segregating––reliant onhardened categories and universalisms",
+    "suffix": " (Amaro 2019;Benjamin 2019; Prit",
+    "start": 4879,
+    "end": 5176,
+    "tags": [
+      "trouble"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+        "selector": [
+          {
+            "end": 5176,
+            "type": "TextPositionSelector",
+            "start": 4879
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "The violent realities and historiesof computer science that we refer to include the way thatcomputation normalizes, optimizes, and makes operationalthrough computation colonial and eugenic modes such assorting, separating, categorizing, segregating––reliant onhardened categories and universalisms",
+            "prefix": "livewithin and struggle amidst. ",
+            "suffix": " (Amaro 2019;Benjamin 2019; Prit"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "slugs.pdf"
+      ]
+    }
+  },
+  {
+    "id": "mplqwCswEe60cpsx1a1VaA",
+    "authority": "hypothes.is",
+    "url": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+    "created": "2023-07-25T21:17:04",
+    "updated": "2023-07-25T21:17:04",
+    "title": "slugs.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "",
+    "prefix": "to sink with us into soft gooey ",
+    "exact": "worldings",
+    "suffix": " of slug-imaginings not to overb",
+    "start": 1650,
+    "end": 1659,
+    "tags": [
+      "key-word"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+        "selector": [
+          {
+            "end": 1659,
+            "type": "TextPositionSelector",
+            "start": 1650
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "worldings",
+            "prefix": "to sink with us into soft gooey ",
+            "suffix": " of slug-imaginings not to overb"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "slugs.pdf"
+      ]
+    }
+  },
+  {
+    "id": "bXtUXiswEe6QUKvbu9dsUQ",
+    "authority": "hypothes.is",
+    "url": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+    "created": "2023-07-25T21:15:48",
+    "updated": "2023-07-25T21:15:48",
+    "title": "slugs.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "",
+    "prefix": "ed muscular lines of models and ",
+    "exact": "predatory basedsolutionisms",
+    "suffix": " beckon some defensive slime. As",
+    "start": 970,
+    "end": 997,
+    "tags": [
+      "key-word"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+        "selector": [
+          {
+            "end": 997,
+            "type": "TextPositionSelector",
+            "start": 970
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "predatory basedsolutionisms",
+            "prefix": "ed muscular lines of models and ",
+            "suffix": " beckon some defensive slime. As"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "slugs.pdf"
+      ]
+    }
+  },
+  {
+    "id": "PwSHzCsvEe6DSdPwa5kPTg",
+    "authority": "hypothes.is",
+    "url": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+    "created": "2023-07-25T21:07:21",
+    "updated": "2023-07-25T21:07:21",
+    "title": "slugs.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "",
+    "prefix": "omiscuousmetaphorical practice, ",
+    "exact": "we propose CS as an openingmetaphor for CS (Computer Science)",
+    "suffix": " departments where thehardened m",
+    "start": 849,
+    "end": 910,
+    "tags": [
+      "<3"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+        "selector": [
+          {
+            "end": 910,
+            "type": "TextPositionSelector",
+            "start": 849
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "we propose CS as an openingmetaphor for CS (Computer Science)",
+            "prefix": "omiscuousmetaphorical practice, ",
+            "suffix": " departments where thehardened m"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "slugs.pdf"
+      ]
+    }
+  },
+  {
+    "id": "ycocGisuEe6JBX9JKN0FaQ",
+    "authority": "hypothes.is",
+    "url": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+    "created": "2023-07-25T21:04:04",
+    "updated": "2023-07-25T21:04:04",
+    "title": "slugs.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "",
+    "prefix": "image-text paper we wonder with ",
+    "exact": "CS (Careful Slugs)",
+    "suffix": "––themateriality and metaphor th",
+    "start": 639,
+    "end": 657,
+    "tags": [
+      "key-word"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+        "selector": [
+          {
+            "end": 657,
+            "type": "TextPositionSelector",
+            "start": 639
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "CS (Careful Slugs)",
+            "prefix": "image-text paper we wonder with ",
+            "suffix": "––themateriality and metaphor th"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "slugs.pdf"
+      ]
+    }
+  },
+  {
+    "id": "tASDtisuEe6JeCsV3kn-Zw",
+    "authority": "hypothes.is",
+    "url": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+    "created": "2023-07-25T21:03:28",
+    "updated": "2023-07-25T21:03:28",
+    "title": "slugs.pdf",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "",
+    "prefix": "hors that speculatively care for",
+    "exact": "diverse practices within and alongside Computer Science.",
+    "suffix": " Inthis image-text paper we wond",
+    "start": 543,
+    "end": 599,
+    "tags": [
+      "important"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://networkcultures.org/reading-group/textual-reknittings/slugs.pdf",
+        "selector": [
+          {
+            "end": 599,
+            "type": "TextPositionSelector",
+            "start": 543
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "diverse practices within and alongside Computer Science.",
+            "prefix": "hors that speculatively care for",
+            "suffix": " Inthis image-text paper we wond"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "slugs.pdf"
+      ]
+    }
+  },
+  {
+    "id": "-kF5dCwFEe67MD-LHdiF8g",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-26T22:44:27",
+    "updated": "2023-07-26T22:44:27",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "Drix",
+    "displayName": "drix",
+    "text": "global communism honestly does not sound promising... ughhh how could this go wrong??? lol",
+    "prefix": "al cooperation and, ultimately, ",
+    "exact": "communism.",
+    "suffix": "¹⁹ This “ambiguous” nature makes",
+    "start": 13066,
+    "end": 13076,
+    "tags": [
+      "disapprobation"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 975,
+            "startOffset": 965,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[14]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[14]"
+          },
+          {
+            "end": 13076,
+            "type": "TextPositionSelector",
+            "start": 13066
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "communism.",
+            "prefix": "al cooperation and, ultimately, ",
+            "suffix": "¹⁹ This “ambiguous” nature makes"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "017lOiwFEe6lcO9R7O9Ppw",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-26T22:43:22",
+    "updated": "2023-07-26T22:43:22",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "Drix",
+    "displayName": "drix",
+    "text": "precisely this, you need scalability if you are going to want to preserve the current globally connected economical/social etc connected capitalistic status, but maybe the infrastructure should be imagined for another structure entirely",
+    "prefix": "es are limited to envisioning a ",
+    "exact": "business-as-usual",
+    "suffix": " future, whereas others are more",
+    "start": 12873,
+    "end": 12890,
+    "tags": [],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 72,
+            "startOffset": 55,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[14]/hypothesis-highlight[3]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[14]/hypothesis-highlight[3]"
+          },
+          {
+            "end": 12890,
+            "type": "TextPositionSelector",
+            "start": 12873
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "business-as-usual",
+            "prefix": "es are limited to envisioning a ",
+            "suffix": " future, whereas others are more"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "TjN6uiwFEe6tWodThZbuDg",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-26T22:39:39",
+    "updated": "2023-07-26T22:39:39",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "Drix",
+    "displayName": "drix",
+    "text": "this makes me think that also the oppositional drive in solar punk is not destructive but creative. Maybe there's some true lack of opposition? It is as if, even the oppositional part presents istself as an alternative to the status quo, without truly challengin the status quo's infrastructures... a bit like \"come to our side, live with us in our alternative organization\" while the rest of the world is not truly challenged and keeps scaling its weapons of destruction. It would be nice to hather some sources that focus more on solare punk also as a material attack on mainstream infrastructures, I am sure these stories are also out there",
+    "prefix": "Manifesto in 2014, argues that “",
+    "exact": "there’s an oppositional quality to solarpunk, but it’s an opposition that begins with infrastructure as a form of resistance.",
+    "suffix": "”¹⁶ This emphasizes the sense wi",
+    "start": 12182,
+    "end": 12307,
+    "tags": [
+      "comment"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 206,
+            "startOffset": 81,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[14]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[14]"
+          },
+          {
+            "end": 12307,
+            "type": "TextPositionSelector",
+            "start": 12182
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "there’s an oppositional quality to solarpunk, but it’s an opposition that begins with infrastructure as a form of resistance.",
+            "prefix": "Manifesto in 2014, argues that “",
+            "suffix": "”¹⁶ This emphasizes the sense wi"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "a_PcOiwEEe6NFocDCnp_pA",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-26T22:33:19",
+    "updated": "2023-07-26T22:33:19",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "Drix",
+    "displayName": "drix",
+    "text": "to elaborate on previous annotation: they both sound very \"marketed\" if we have to find a definition for the focus it would be nice to call for some more disruptive and provokative thing maybe, mor punk, less solar?",
+    "prefix": " in fair and equitable ways.”¹⁴ ",
+    "exact": "Addressing climate change and sustainability issues can easily be perceived as solving issues for just the wealthy few; addressing climate justice offers a more inclusive, intersectional approach.",
+    "suffix": "2. Decentralization as a Trope (",
+    "start": 10887,
+    "end": 11083,
+    "tags": [],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 1431,
+            "startOffset": 1235,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[12]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[12]"
+          },
+          {
+            "end": 11083,
+            "type": "TextPositionSelector",
+            "start": 10887
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Addressing climate change and sustainability issues can easily be perceived as solving issues for just the wealthy few; addressing climate justice offers a more inclusive, intersectional approach.",
+            "prefix": " in fair and equitable ways.”¹⁴ ",
+            "suffix": "2. Decentralization as a Trope ("
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "AvdAUCwEEe6wpdeZFLjs1Q",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-26T22:30:23",
+    "updated": "2023-07-26T22:30:23",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "Drix",
+    "displayName": "drix",
+    "text": "mah... sound even more vague and \"green washed\" to me",
+    "prefix": "lity” towards a more considered ",
+    "exact": "addressing of “climate justice.",
+    "suffix": "” As Associate Professor of Geog",
+    "start": 10572,
+    "end": 10603,
+    "tags": [
+      "disapprobation"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 145,
+            "startOffset": 114,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[12]/hypothesis-highlight[3]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[12]/hypothesis-highlight[3]"
+          },
+          {
+            "end": 10603,
+            "type": "TextPositionSelector",
+            "start": 10572
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "addressing of “climate justice.",
+            "prefix": "lity” towards a more considered ",
+            "suffix": "” As Associate Professor of Geog"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "w_W1TiwDEe6I06MN-JKTgg",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-26T22:28:37",
+    "updated": "2023-07-26T22:28:37",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "Drix",
+    "displayName": "drix",
+    "text": "In a way solarpunk is a nice way of entangling together both the destructive and the generative drives that any effort to change the status quo contains",
+    "prefix": "unk is a chance to imagine (..) ",
+    "exact": "what a world would look like which addressed its injustices (rather than the simply-utopian path of imagining them away without a plan",
+    "suffix": ").”¹³ Adopting a solarpunk narra",
+    "start": 10143,
+    "end": 10277,
+    "tags": [
+      "comment"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 625,
+            "startOffset": 491,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[12]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[12]"
+          },
+          {
+            "end": 10277,
+            "type": "TextPositionSelector",
+            "start": 10143
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "what a world would look like which addressed its injustices (rather than the simply-utopian path of imagining them away without a plan",
+            "prefix": "unk is a chance to imagine (..) ",
+            "suffix": ").”¹³ Adopting a solarpunk narra"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "y8BmSickEe6bgA_0tx2MKw",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-20T17:42:28",
+    "updated": "2023-07-20T17:42:28",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "Drix",
+    "displayName": "drix",
+    "text": "found really thought provoking what Phoebe Tickell says in the Green pill poadcast about decentralization. Something along the lines of the fact that a decentralized structure is not necessarily a fair and just structure, as well as organization and coordination would not necessarily lead to harmony. She identifys the problem not in decision making structures but in imagination, which shapes levels of human development, capacity for ethics, values and a collective morality.\nShe reckons the issue is at the level of accountability and transparency, you can have really unhealthy decentralized systems where there's still power imbalance, decentralization can hid soft influence.\n\nhere's her references: https://medium.com/the-tuning-fork/hierarchy-is-not-the-problem-892610f5d9c0\nand\nhttps://www.jofreeman.com/joreen/tyranny.htm",
+    "prefix": "f self-sustaining revolution.”⁵ ",
+    "exact": "Decentralization, in the sense that authority is moved away from a central governing body to local or individual agents, is thus implicitly embedded in this description.",
+    "suffix": "Solarpunk is often, also in the ",
+    "start": 5218,
+    "end": 5387,
+    "tags": [
+      "trouble"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 1036,
+            "startOffset": 867,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[6]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[6]"
+          },
+          {
+            "end": 5387,
+            "type": "TextPositionSelector",
+            "start": 5218
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Decentralization, in the sense that authority is moved away from a central governing body to local or individual agents, is thus implicitly embedded in this description.",
+            "prefix": "f self-sustaining revolution.”⁵ ",
+            "suffix": "Solarpunk is often, also in the "
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "nTARTiswEe6i6HsmiTzJbg",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-25T21:17:09",
+    "updated": "2023-07-25T21:17:09",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [
+      "y8BmSickEe6bgA_0tx2MKw"
+    ],
+    "isReply": true,
+    "isPagenote": true,
+    "user": "hd_onions",
+    "displayName": "anonymous onion",
+    "text": "yes the tyranny of structurelessness is great! but also decentralization is a structure no? ",
+    "prefix": "",
+    "exact": "",
+    "suffix": "",
+    "tags": [],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola"
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "4_5wRCZSEe6sfbvkRSGFvQ",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-19T16:39:54",
+    "updated": "2023-07-19T16:39:54",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "\"hope\" in hopepunk, in its most extreme interpretation/scenario, as future conditions for life, even if not for the human specie? ^^",
+    "prefix": " harmony, it is instrumental to ",
+    "exact": "shift our focus away from the human-centric",
+    "suffix": ". Expanding our awareness to ack",
+    "start": 25602,
+    "end": 25645,
+    "tags": [
+      "approval"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 174,
+            "startOffset": 131,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[35]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[35]"
+          },
+          {
+            "end": 25645,
+            "type": "TextPositionSelector",
+            "start": 25602
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "shift our focus away from the human-centric",
+            "prefix": " harmony, it is instrumental to ",
+            "suffix": ". Expanding our awareness to ack"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "8yFMaiZQEe6AoLfYnq5abw",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-19T16:26:01",
+    "updated": "2023-07-19T16:26:01",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "interesting",
+    "prefix": "roduction of the blockchain.”³⁰ ",
+    "exact": "Giving a few examples of community-sized crypto projects, they show how this changes the relationship between people, blockchains, and trust as “trust” is in these cases “not located in a central authority, nor is it located in a ‘trustless architecture’, but rather is it located in the community.”",
+    "suffix": "³¹ In these examples, blockchain",
+    "start": 19608,
+    "end": 19907,
+    "tags": [
+      "important"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 1078,
+            "startOffset": 779,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[24]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[24]"
+          },
+          {
+            "end": 19907,
+            "type": "TextPositionSelector",
+            "start": 19608
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Giving a few examples of community-sized crypto projects, they show how this changes the relationship between people, blockchains, and trust as “trust” is in these cases “not located in a central authority, nor is it located in a ‘trustless architecture’, but rather is it located in the community.”",
+            "prefix": "roduction of the blockchain.”³⁰ ",
+            "suffix": "³¹ In these examples, blockchain"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "jfP-CiZQEe6bJoeBfIm8yg",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-19T16:23:11",
+    "updated": "2023-07-19T16:23:11",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "such an accurate, anticipative description of what crypto-bros call \"incentives\" ",
+    "prefix": "a mistaken and terrible beauty; ",
+    "exact": "in the rights of the money-changers, where greed, laziness, and envy were assumed to move all men's acts, even the terrible became banal.",
+    "suffix": "”Ursula K. Le Guin, The Disposse",
+    "start": 18650,
+    "end": 18787,
+    "tags": [
+      "<3",
+      "reference"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 224,
+            "startOffset": 87,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/h3[16]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/h3[16]"
+          },
+          {
+            "end": 18787,
+            "type": "TextPositionSelector",
+            "start": 18650
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "in the rights of the money-changers, where greed, laziness, and envy were assumed to move all men's acts, even the terrible became banal.",
+            "prefix": "a mistaken and terrible beauty; ",
+            "suffix": "”Ursula K. Le Guin, The Disposse"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "EZhMEiZQEe696ksC3tOhJg",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-19T16:19:42",
+    "updated": "2023-07-19T16:19:42",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "",
+    "prefix": "goods, a term they describe as ‘",
+    "exact": "positive externalities",
+    "suffix": "’ or infrastructures which are o",
+    "start": 17145,
+    "end": 17167,
+    "tags": [
+      "key-word"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 157,
+            "startOffset": 135,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[22]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[22]"
+          },
+          {
+            "end": 17167,
+            "type": "TextPositionSelector",
+            "start": 17145
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "positive externalities",
+            "prefix": "goods, a term they describe as ‘",
+            "suffix": "’ or infrastructures which are o"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "xNbNaCZPEe6nHbMPzvIBNw",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-19T16:17:34",
+    "updated": "2023-07-19T16:17:34",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "that's an interesting way to look at capitalism...",
+    "prefix": "ussed or enacted. Which is why, ",
+    "exact": "in the absence of ways to enact our shared values, we default to the lowest common denominator: profit.",
+    "suffix": "”²⁸Their proposition, in line wi",
+    "start": 16904,
+    "end": 17007,
+    "tags": [
+      "trouble"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 506,
+            "startOffset": 403,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/h3[14]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/h3[14]"
+          },
+          {
+            "end": 17007,
+            "type": "TextPositionSelector",
+            "start": 16904
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "in the absence of ways to enact our shared values, we default to the lowest common denominator: profit.",
+            "prefix": "ussed or enacted. Which is why, ",
+            "suffix": "”²⁸Their proposition, in line wi"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "TTICJCZOEe6MYJ9B0Wg4ew",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-19T16:07:03",
+    "updated": "2023-07-19T16:07:03",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "and what about building an architecture of trust??",
+    "prefix": "h. In the example of Bitcoin, a ",
+    "exact": "‘trustless-architecture’ (meaning as little trust as possible",
+    "suffix": ") was instrumentalized to favor ",
+    "start": 15394,
+    "end": 15455,
+    "tags": [
+      "important"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 412,
+            "startOffset": 351,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[18]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[18]"
+          },
+          {
+            "end": 15455,
+            "type": "TextPositionSelector",
+            "start": 15394
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "‘trustless-architecture’ (meaning as little trust as possible",
+            "prefix": "h. In the example of Bitcoin, a ",
+            "suffix": ") was instrumentalized to favor "
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "WNSDWiZNEe6VJ9crRQ0wSQ",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-19T16:00:13",
+    "updated": "2023-07-19T16:00:13",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "",
+    "prefix": "His literary analysis shows how ",
+    "exact": "some solarpunk narratives are limited to envisioning a business-as-usual future",
+    "suffix": ", whereas others are more explic",
+    "start": 12818,
+    "end": 12897,
+    "tags": [
+      "important"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 796,
+            "startOffset": 717,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[14]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[14]"
+          },
+          {
+            "end": 12897,
+            "type": "TextPositionSelector",
+            "start": 12818
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "some solarpunk narratives are limited to envisioning a business-as-usual future",
+            "prefix": "His literary analysis shows how ",
+            "suffix": ", whereas others are more explic"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "LEOQ3iZMEe6mlLvwOHKdag",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-19T15:51:49",
+    "updated": "2023-07-19T15:51:49",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "",
+    "prefix": "s to be built to get there, and ",
+    "exact": "the “how”",
+    "suffix": " is often not so vividly describ",
+    "start": 11602,
+    "end": 11611,
+    "tags": [
+      "key-word"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 275,
+            "startOffset": 266,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[13]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[13]"
+          },
+          {
+            "end": 11611,
+            "type": "TextPositionSelector",
+            "start": 11602
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "the “how”",
+            "prefix": "s to be built to get there, and ",
+            "suffix": " is often not so vividly describ"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "7vA-9CZKEe6bESdQBEk11A",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-19T15:42:57",
+    "updated": "2023-07-19T15:42:57",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "from \"solution\" to \"justice\"",
+    "prefix": "opriate (and more solarpunk) to ",
+    "exact": "shift the focus from “solving challenges surrounding climate change and sustainability” towards a more considered addressing of “climate justice.",
+    "suffix": "” As Associate Professor of Geog",
+    "start": 10458,
+    "end": 10603,
+    "tags": [
+      "<3"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 951,
+            "startOffset": 806,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[12]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[12]"
+          },
+          {
+            "end": 10603,
+            "type": "TextPositionSelector",
+            "start": 10458
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "shift the focus from “solving challenges surrounding climate change and sustainability” towards a more considered addressing of “climate justice.",
+            "prefix": "opriate (and more solarpunk) to ",
+            "suffix": "” As Associate Professor of Geog"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "3YcTzCsxEe6ikxfGRF013g",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-25T21:26:06",
+    "updated": "2023-07-25T21:26:06",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [
+      "7vA-9CZKEe6bESdQBEk11A"
+    ],
+    "isReply": true,
+    "isPagenote": true,
+    "user": "hd_onions",
+    "displayName": "anonymous onion",
+    "text": "+1",
+    "prefix": "",
+    "exact": "",
+    "suffix": "",
+    "tags": [],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola"
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "p4tK1iZKEe6mjm9AKLz_8g",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-19T15:40:57",
+    "updated": "2023-07-19T15:40:57",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "",
+    "prefix": "ndustrial solar farms, than of “",
+    "exact": "diverse communities around the world building self-sustaining nests of revolution.",
+    "suffix": "” How decentralized and egalitar",
+    "start": 9232,
+    "end": 9314,
+    "tags": [
+      "<3"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 314,
+            "startOffset": 232,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[11]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[11]"
+          },
+          {
+            "end": 9314,
+            "type": "TextPositionSelector",
+            "start": 9232
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "diverse communities around the world building self-sustaining nests of revolution.",
+            "prefix": "ndustrial solar farms, than of “",
+            "suffix": "” How decentralized and egalitar"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "czQLECZKEe6bvJPQJP28Tw",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-19T15:39:29",
+    "updated": "2023-07-19T15:39:29",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "Are not all utopias others' dystopias? \n\n\nIt seems to me that wether 'positive' or 'negative', a dream/nightmare of a u/dys-topia is by essence totalizing.\n\n\nI feel that we should go beyond both dystopia and utopia, as a political goal at least - instead of pushing for a utopian totality, we could try to encourage some (unpredictable) diversity",
+    "prefix": "’s optimism for the future, but ",
+    "exact": "how to ensure that the utopian image does not totalize?",
+    "suffix": " The ambition to create a global",
+    "start": 9068,
+    "end": 9123,
+    "tags": [
+      "disapproval"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 123,
+            "startOffset": 68,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[11]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[11]"
+          },
+          {
+            "end": 9123,
+            "type": "TextPositionSelector",
+            "start": 9068
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "how to ensure that the utopian image does not totalize?",
+            "prefix": "’s optimism for the future, but ",
+            "suffix": " The ambition to create a global"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "IEEGGiwDEe6qzickCvMHgA",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-26T22:24:03",
+    "updated": "2023-07-26T22:24:03",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [
+      "czQLECZKEe6bvJPQJP28Tw"
+    ],
+    "isReply": true,
+    "isPagenote": true,
+    "user": "Drix",
+    "displayName": "drix",
+    "text": "yes, but also its precisely the point of a utopia to totalize? While it is embedded in it the impossibility of its actualization it knids of self-defuses and at the same time it preserves the strength of a \"clean\", clear, totalizing desire in moving people towards its actualisatio, making them start to act.",
+    "prefix": "",
+    "exact": "",
+    "suffix": "",
+    "tags": [],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola"
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "OslLnCZJEe6l9L8omgWNwA",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-19T15:30:45",
+    "updated": "2023-07-19T15:30:45",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "solarpunk &lt=> solar energy",
+    "prefix": "vice, and a direct reference to ",
+    "exact": "solar energy",
+    "suffix": " and low carbon, renewable energ",
+    "start": 7947,
+    "end": 7959,
+    "tags": [
+      "keyword"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 387,
+            "startOffset": 375,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[9]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[9]"
+          },
+          {
+            "end": 7959,
+            "type": "TextPositionSelector",
+            "start": 7947
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "solar energy",
+            "prefix": "vice, and a direct reference to ",
+            "suffix": " and low carbon, renewable energ"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "m7HHAiZGEe6pNC-wQulZzQ",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-19T15:11:59",
+    "updated": "2023-07-19T15:12:13",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "grandmother of solarpunk",
+    "prefix": "ed “solarpunk” retrospectively. ",
+    "exact": "Ursula K. Le Guin",
+    "suffix": " is, for instance, described by ",
+    "start": 4036,
+    "end": 4053,
+    "tags": [
+      "reference"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 331,
+            "startOffset": 314,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[5]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[5]"
+          },
+          {
+            "end": 4053,
+            "type": "TextPositionSelector",
+            "start": 4036
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Ursula K. Le Guin",
+            "prefix": "ed “solarpunk” retrospectively. ",
+            "suffix": " is, for instance, described by "
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "vGz67iZFEe6WjpOgvNdxFA",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-19T15:05:44",
+    "updated": "2023-07-19T15:06:04",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "reason why we try to conceive of hope-punk rather than solar-punk?",
+    "prefix": "ble.”⁴It is not surprising that ",
+    "exact": "key figures in Web3 increasingly refer to, and appropriate solarpunk.",
+    "suffix": " In both solarpunk and Web3 beli",
+    "start": 2321,
+    "end": 2390,
+    "tags": [
+      "important"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 95,
+            "startOffset": 26,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[4]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[4]"
+          },
+          {
+            "end": 2390,
+            "type": "TextPositionSelector",
+            "start": 2321
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "key figures in Web3 increasingly refer to, and appropriate solarpunk.",
+            "prefix": "ble.”⁴It is not surprising that ",
+            "suffix": " In both solarpunk and Web3 beli"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "XpAFmCZEEe6XH89iiTgypA",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-19T14:55:58",
+    "updated": "2023-07-19T14:55:58",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "domination can well be decentralized (both in fact and intent). Decentralization is not sufficient, to adequately address the issue of power",
+    "prefix": "ot to be run from the top down. ",
+    "exact": "There was to be no controlling center, no capital, no establishment for the self-perpetuating machinery of bureaucracy and the dominance drive of individuals seeking to become captains, bosses, chiefs of state.”",
+    "suffix": "Ursula K. Le Guin, The Disposses",
+    "start": 610,
+    "end": 821,
+    "tags": [
+      "important"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 440,
+            "startOffset": 229,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/h3[1]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/h3[1]"
+          },
+          {
+            "end": 821,
+            "type": "TextPositionSelector",
+            "start": 610
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "There was to be no controlling center, no capital, no establishment for the self-perpetuating machinery of bureaucracy and the dominance drive of individuals seeking to become captains, bosses, chiefs of state.”",
+            "prefix": "ot to be run from the top down. ",
+            "suffix": "Ursula K. Le Guin, The Disposses"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "qjN_RCZDEe6f3AubZ5nm6A",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-19T14:50:55",
+    "updated": "2023-07-19T14:50:55",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "",
+    "prefix": "ia KareolaPublished 12 May 2022“",
+    "exact": "Decentralization",
+    "suffix": " had been an essential element i",
+    "start": 382,
+    "end": 398,
+    "tags": [
+      "key-word"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 17,
+            "startOffset": 1,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/h3[1]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/h3[1]"
+          },
+          {
+            "end": 398,
+            "type": "TextPositionSelector",
+            "start": 382
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Decentralization",
+            "prefix": "ia KareolaPublished 12 May 2022“",
+            "suffix": " had been an essential element i"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "xf0PkiVTEe6rN7_giUXLGw",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-18T10:13:42",
+    "updated": "2023-07-18T10:13:42",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "augustomarquet",
+    "displayName": null,
+    "text": "I was thinking for instance in [Proteus](https://en.wikipedia.org/wiki/Proteus_(video_game))   as the game  game appears to be in this new land;  where the game is just living or \"experimenting\" ",
+    "prefix": " movement and a literary genre. ",
+    "exact": "Some artworks and novels have been labeled “solarpunk” retrospectively.",
+    "suffix": " Ursula K. Le Guin is, for insta",
+    "start": 3964,
+    "end": 4035,
+    "tags": [
+      "comment"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 313,
+            "startOffset": 242,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[5]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[5]"
+          },
+          {
+            "end": 4035,
+            "type": "TextPositionSelector",
+            "start": 3964
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Some artworks and novels have been labeled “solarpunk” retrospectively.",
+            "prefix": " movement and a literary genre. ",
+            "suffix": " Ursula K. Le Guin is, for insta"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "XbQ0ViVTEe6YVAuFycx5bA",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-18T10:10:47",
+    "updated": "2023-07-18T10:11:21",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "Selby",
+    "displayName": "Helbu",
+    "text": "The Green Pill podcast is for all the green innovators out there. Join Dr Chris Newman, a medical doctor, healthy-climate advocate and occasional mischief maker as he interviews folks as diverse as Transition founder Rob Hopkins, rapper  and permaculture expert KMT, ex-child slave + NGO founder Nasreen Sheikh. Whatever your field of expertise, guaranteed there's someone greening it up already. This is where you'll find them. Out every Wednesday.",
+    "prefix": "k Greenpilled and the launch of ",
+    "exact": "The Green Pill Podcast",
+    "suffix": ".¹ For Owocki, being “greenpille",
+    "start": 1020,
+    "end": 1042,
+    "tags": [
+      "background info"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 22,
+            "startOffset": 0,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/em[2]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/em[2]"
+          },
+          {
+            "end": 1042,
+            "type": "TextPositionSelector",
+            "start": 1020
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "The Green Pill Podcast",
+            "prefix": "k Greenpilled and the launch of ",
+            "suffix": ".¹ For Owocki, being “greenpille"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "Haz5_iZFEe6pMJey-7b7bQ",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-19T15:01:18",
+    "updated": "2023-07-19T15:01:18",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [
+      "XbQ0ViVTEe6YVAuFycx5bA"
+    ],
+    "isReply": true,
+    "isPagenote": true,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "thank you for this summary!",
+    "prefix": "",
+    "exact": "",
+    "suffix": "",
+    "tags": [
+      "reference"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola"
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "cX7dmCVSEe6yQzfUQa2qkw",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-18T10:04:11",
+    "updated": "2023-07-18T10:04:11",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "anoniet",
+    "displayName": null,
+    "text": "definition by re-des",
+    "prefix": " made in manifestos. The one on ",
+    "exact": "re-des.org describes solarpunk as “a vision of a future that embodies the best of what humanity can achieve: a post-scarcity, post-hierarchy, post-capitalistic [sic] world where humanity sees itself as part of nature and clean energy replaces fossil fuels",
+    "suffix": ".” Decentralization is not menti",
+    "start": 4550,
+    "end": 4805,
+    "tags": [
+      "citation"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 454,
+            "startOffset": 0,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[6]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[6]/a[1]"
+          },
+          {
+            "end": 4805,
+            "type": "TextPositionSelector",
+            "start": 4550
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "re-des.org describes solarpunk as “a vision of a future that embodies the best of what humanity can achieve: a post-scarcity, post-hierarchy, post-capitalistic [sic] world where humanity sees itself as part of nature and clean energy replaces fossil fuels",
+            "prefix": " made in manifestos. The one on ",
+            "suffix": ".” Decentralization is not menti"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "UEN5DiVSEe68AkM03IHi9A",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-18T10:03:15",
+    "updated": "2023-07-18T10:03:15",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "subsignal",
+    "displayName": null,
+    "text": "How can we consider scalability in our 'solarpunk' solutions? Decentralisation and local organisation seems to be a core value of solarpunk ideas, but appears contradictory when we  try to scale on a global level.",
+    "prefix": "by the tragedy of the commons.⁹ ",
+    "exact": "“Regenerative economic tools” they argue “are solarpunk.” But to build these tools (and common goods) needed for social progress at the planetary scale, global coordination and large-scale implementation is needed, and the question is whether that is still solarpunk, too.",
+    "suffix": "California-based researcher Isai",
+    "start": 7300,
+    "end": 7572,
+    "tags": [
+      "trouble"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 1320,
+            "startOffset": 1048,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[8]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[8]"
+          },
+          {
+            "end": 7572,
+            "type": "TextPositionSelector",
+            "start": 7300
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "“Regenerative economic tools” they argue “are solarpunk.” But to build these tools (and common goods) needed for social progress at the planetary scale, global coordination and large-scale implementation is needed, and the question is whether that is still solarpunk, too.",
+            "prefix": "by the tragedy of the commons.⁹ ",
+            "suffix": "California-based researcher Isai"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "wPNb-iZIEe6bCrMRcA-Uqw",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-19T15:27:21",
+    "updated": "2023-07-19T15:29:34",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [
+      "UEN5DiVSEe68AkM03IHi9A"
+    ],
+    "isReply": true,
+    "isPagenote": true,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "Yes... perhaps we could think of tools with global standards, for better coordination, but with local applications and appropriations (kind of like a free software, which can have local adaptations but is addressed to a global community and as such, conforms to certain technological standards)",
+    "prefix": "",
+    "exact": "",
+    "suffix": "",
+    "tags": [
+      "approbation"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola"
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "M6ROpisxEe69UDuCmsLR6w",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-25T21:21:21",
+    "updated": "2023-07-25T21:25:17",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [
+      "UEN5DiVSEe68AkM03IHi9A"
+    ],
+    "isReply": true,
+    "isPagenote": true,
+    "user": "hd_onions",
+    "displayName": "anonymous onion",
+    "text": "is the question of scalability a bit besides the point? i have to think about anna lowenhaupt-ting's text on non-scalability... the problem of scale.. or the problem of the promise of scalability is that it does not account for the non-scalable effects.. isnt it a fallacy to think you can scale a \"solution\" such as solar-energy up and down and not think about what does not scale or translate through these transitions. i find solarpunk limiting in that context...  it may be the sun that is a super abundant resource in some context and may fulfil its regenerational promise but in another context the sun may be perceived as causing a lot of harm and rather than sparking future imagination is a cause of distress. other forms of regenerative resources and practices may be fitting better in these contexts ",
+    "prefix": "",
+    "exact": "",
+    "suffix": "",
+    "tags": [],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola"
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "TtEZbCwCEe6MXWeujL0Ybw",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-26T22:18:11",
+    "updated": "2023-07-26T22:18:11",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [
+      "UEN5DiVSEe68AkM03IHi9A",
+      "M6ROpisxEe69UDuCmsLR6w"
+    ],
+    "isReply": true,
+    "isPagenote": true,
+    "user": "Drix",
+    "displayName": "drix",
+    "text": "I find myself in line with this. I find the pursuit of scalability as a matter surrounded by gloomy vibes. It's one thought that puts you immediately in the position of \"thinking in the place of others\". Inthis case, thinking that one technological solution will work for others too.. As one programmer would know well, there are endless ways to reach the same result. Makes me wonder if commoning knowledges  and practices with your neighbours (who are somebody else's neighbours) could be a better way to scale solutions... letting other learn and take what they need, rework on it etc (a bith on the line on mauss gifts thingy in anthropology)",
+    "prefix": "",
+    "exact": "",
+    "suffix": "",
+    "tags": [
+      "approbation",
+      "trouble"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola"
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "4ByrgiVREe6xWNsO1iA5ww",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-18T10:00:07",
+    "updated": "2023-07-18T10:00:07",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "anoniet",
+    "displayName": null,
+    "text": "objective of the text?",
+    "prefix": "istinct nuances to be detected. ",
+    "exact": "Analyzing the way in which decentralization and infrastructure are instrumentalized and referred to in both solarpunk and Web3, can help to understand to what extent appropriation of solarpunk narratives within Web3 is appropriate.",
+    "suffix": " Additionally, looking at Web3 i",
+    "start": 2784,
+    "end": 3015,
+    "tags": [
+      "key-word"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 720,
+            "startOffset": 489,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[4]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[4]"
+          },
+          {
+            "end": 3015,
+            "type": "TextPositionSelector",
+            "start": 2784
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Analyzing the way in which decentralization and infrastructure are instrumentalized and referred to in both solarpunk and Web3, can help to understand to what extent appropriation of solarpunk narratives within Web3 is appropriate.",
+            "prefix": "istinct nuances to be detected. ",
+            "suffix": " Additionally, looking at Web3 i"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "vxB-liVREe6qvWuQ5wXaUg",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-18T09:59:12",
+    "updated": "2023-07-18T09:59:12",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "hd_onions",
+    "displayName": "anonymous onion",
+    "text": "In a similar sense, technology is not accessible to everyone equally. What bothers me in a lot of the Solarpunk accounts, is the aesthetics, the slickness of its visual depiction ",
+    "prefix": "unk, not always entirely clear. ",
+    "exact": "Williams points out how the specifics of imaginaries “vary depending on the politics of the dreamer” and observes how solarpunk (perhaps because of its distributed nature) is not entirely politically homogeneous.",
+    "suffix": "¹⁷ His literary analysis shows h",
+    "start": 12571,
+    "end": 12783,
+    "tags": [
+      "solarpunk"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 682,
+            "startOffset": 470,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[14]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[14]"
+          },
+          {
+            "end": 12783,
+            "type": "TextPositionSelector",
+            "start": 12571
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Williams points out how the specifics of imaginaries “vary depending on the politics of the dreamer” and observes how solarpunk (perhaps because of its distributed nature) is not entirely politically homogeneous.",
+            "prefix": "unk, not always entirely clear. ",
+            "suffix": "¹⁷ His literary analysis shows h"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "B-nkgCZNEe6TOEMAXXGWjw",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-19T15:57:58",
+    "updated": "2023-07-19T15:57:58",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [
+      "vxB-liVREe6qvWuQ5wXaUg"
+    ],
+    "isReply": true,
+    "isPagenote": true,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "",
+    "prefix": "",
+    "exact": "",
+    "suffix": "",
+    "tags": [
+      "approbation"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola"
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "f-Dg8iwFEe6MWgumox3IDA",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-26T22:41:02",
+    "updated": "2023-07-26T22:41:02",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [
+      "vxB-liVREe6qvWuQ5wXaUg"
+    ],
+    "isReply": true,
+    "isPagenote": true,
+    "user": "Drix",
+    "displayName": "drix",
+    "text": "omg yes ",
+    "prefix": "",
+    "exact": "",
+    "suffix": "",
+    "tags": [],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola"
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "mc9IaiVREe67_eds_-Wj4g",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-18T09:58:09",
+    "updated": "2023-07-18T09:58:09",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "anoniet",
+    "displayName": null,
+    "text": "",
+    "prefix": "e world.³ I strongly believe in ",
+    "exact": "cypherpunk",
+    "suffix": " values and I think those are re",
+    "start": 1589,
+    "end": 1599,
+    "tags": [
+      "keywords"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 251,
+            "startOffset": 241,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/h3[3]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/h3[3]"
+          },
+          {
+            "end": 1599,
+            "type": "TextPositionSelector",
+            "start": 1589
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "cypherpunk",
+            "prefix": "e world.³ I strongly believe in ",
+            "suffix": " values and I think those are re"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "eeBpRCVREe6_VwshJd-7qA",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-18T09:57:16",
+    "updated": "2023-07-18T09:57:51",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "cyberfae1312",
+    "displayName": null,
+    "text": "loved the book",
+    "prefix": "tains, bosses, chiefs of state.”",
+    "exact": "Ursula K. Le Guin, The Dispossessed, 1974",
+    "suffix": "On February 16, 2022, Kevin Owoc",
+    "start": 821,
+    "end": 862,
+    "tags": [
+      "citation"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 41,
+            "startOffset": 0,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/h3[2]/strong[1]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/h3[2]/strong[1]"
+          },
+          {
+            "end": 862,
+            "type": "TextPositionSelector",
+            "start": 821
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Ursula K. Le Guin, The Dispossessed, 1974",
+            "prefix": "tains, bosses, chiefs of state.”",
+            "suffix": "On February 16, 2022, Kevin Owoc"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "iV-GtiVREe6Q5HOPoj_lIQ",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-18T09:57:42",
+    "updated": "2023-07-18T09:57:42",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "goosey",
+    "displayName": null,
+    "text": "",
+    "prefix": "unk Contextualized“A cluster of ",
+    "exact": "dazzling flashes",
+    "suffix": " at the east edge of the city ma",
+    "start": 3320,
+    "end": 3336,
+    "tags": [
+      "key-word"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 30,
+            "startOffset": 14,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/h3[5]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/h3[5]"
+          },
+          {
+            "end": 3336,
+            "type": "TextPositionSelector",
+            "start": 3320
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "dazzling flashes",
+            "prefix": "unk Contextualized“A cluster of ",
+            "suffix": " at the east edge of the city ma"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "plzjDiVQEe6YxGNKW3LtCA",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-18T09:51:21",
+    "updated": "2023-07-18T09:51:21",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "goosey",
+    "displayName": null,
+    "text": "What is New Materialism?",
+    "prefix": "rastructure through the lens of ",
+    "exact": "New Materialism",
+    "suffix": ", which challenges human-centris",
+    "start": 3081,
+    "end": 3096,
+    "tags": [],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 801,
+            "startOffset": 786,
+            "endContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[4]",
+            "startContainer": "/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[4]"
+          },
+          {
+            "end": 3096,
+            "type": "TextPositionSelector",
+            "start": 3081
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "New Materialism",
+            "prefix": "rastructure through the lens of ",
+            "suffix": ", which challenges human-centris"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "4xYrSisvEe6c4Y8q_LnLqQ",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-25T21:11:56",
+    "updated": "2023-07-25T21:11:56",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [
+      "plzjDiVQEe6YxGNKW3LtCA",
+      "U5rQ-iZTEe6TWguVd5UsZQ"
+    ],
+    "isReply": true,
+    "isPagenote": true,
+    "user": "hd_onions",
+    "displayName": "anonymous onion",
+    "text": "karen barad's new materialist perspective... in \"Meeting the Universe Halfway\" especially their reflection on measuring apparatuses and their entanglements with matter ",
+    "prefix": "",
+    "exact": "",
+    "suffix": "",
+    "tags": [],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola"
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "U5rQ-iZTEe6TWguVd5UsZQ",
+    "authority": "hypothes.is",
+    "url": "https://zine.zora.co/solarpunk-web3-kareola",
+    "created": "2023-07-19T16:43:02",
+    "updated": "2023-07-25T21:14:51",
+    "title": "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE",
+    "refs": [
+      "plzjDiVQEe6YxGNKW3LtCA"
+    ],
+    "isReply": true,
+    "isPagenote": true,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "sounds really interesting as a thought-movement, actually: \n> \"The new materialisms are a range of contemporary perspectives in the arts, humanities and social sciences that have in common a theoretical and practical ‘turn to matter’. Many new materialists treat their work as discontinuous with the historical materialism of Hegel and Marx, whereas others recognise a connection via the micropolitical working of power, politics and biopolitics.  The materiality addressed in these new materialisms is relational, plural, open, complex, uneven and contingent; cuts across dualistic boundaries between natural and social worlds; and for some new materialist scholars is invested with a vitality or liveliness\"\n[source](https://globalsocialtheory.org/topics/new-materialism/)",
+    "prefix": "",
+    "exact": "",
+    "suffix": "",
+    "tags": [
+      "reference"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://zine.zora.co/solarpunk-web3-kareola"
+      }
+    ],
+    "document": {
+      "title": [
+        "Planetary Infrastructure as Resistance: Solarpunk and Web3 – ZORA ZINE"
+      ]
+    }
+  },
+  {
+    "id": "6j7CgCvmEe6POd_YF7vYdA",
+    "authority": "hypothes.is",
+    "url": "https://olh.openlibhums.org/article/id/4597/",
+    "created": "2023-07-26T19:02:06",
+    "updated": "2023-07-26T19:02:06",
+    "title": "‘This Shining Confluence of Magic and Technology’: Solarpunk, Energy Imaginaries, and the Infrastructures of Solarity",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "",
+    "prefix": "laborated energy imaginaries in ",
+    "exact": "engaging the question of achieving a fully social and cultural energy transition",
+    "suffix": ". In doing so, it has also aimed",
+    "start": 62332,
+    "end": 62412,
+    "tags": [
+      "<3"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://olh.openlibhums.org/article/id/4597/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 1070,
+            "startOffset": 990,
+            "endContainer": "/div[2]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[9]/p[1]",
+            "startContainer": "/div[2]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[9]/p[1]"
+          },
+          {
+            "end": 62412,
+            "type": "TextPositionSelector",
+            "start": 62332
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "engaging the question of achieving a fully social and cultural energy transition",
+            "prefix": "laborated energy imaginaries in ",
+            "suffix": ". In doing so, it has also aimed"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "‘This Shining Confluence of Magic and Technology’: Solarpunk, Energy Imaginaries, and the Infrastructures of Solarity"
+      ]
+    }
+  },
+  {
+    "id": "jTNJ9CvlEe6Msbs8POeHsA",
+    "authority": "hypothes.is",
+    "url": "https://olh.openlibhums.org/article/id/4597/",
+    "created": "2023-07-26T18:52:20",
+    "updated": "2023-07-26T18:52:20",
+    "title": "‘This Shining Confluence of Magic and Technology’: Solarpunk, Energy Imaginaries, and the Infrastructures of Solarity",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "",
+    "prefix": "of altered social relations and ",
+    "exact": "alternative figurations of desire",
+    "suffix": "—into the external world through",
+    "start": 56922,
+    "end": 56955,
+    "tags": [
+      "key-word"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://olh.openlibhums.org/article/id/4597/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 271,
+            "startOffset": 238,
+            "endContainer": "/div[2]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[8]/p[4]",
+            "startContainer": "/div[2]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[8]/p[4]"
+          },
+          {
+            "end": 56955,
+            "type": "TextPositionSelector",
+            "start": 56922
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "alternative figurations of desire",
+            "prefix": "of altered social relations and ",
+            "suffix": "—into the external world through"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "‘This Shining Confluence of Magic and Technology’: Solarpunk, Energy Imaginaries, and the Infrastructures of Solarity"
+      ]
+    }
+  },
+  {
+    "id": "7zy6oCvGEe6kFO9PWrfUlA",
+    "authority": "hypothes.is",
+    "url": "https://olh.openlibhums.org/article/id/4597/",
+    "created": "2023-07-26T15:13:10",
+    "updated": "2023-07-26T15:13:10",
+    "title": "‘This Shining Confluence of Magic and Technology’: Solarpunk, Energy Imaginaries, and the Infrastructures of Solarity",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "imaginary for community building, coherence between like-minded people/activist",
+    "prefix": "d to which they can contribute. ",
+    "exact": "The solarpunk imaginary can then provide a conceptual coherence to an already-mobilised political activity, provide a community of like-minded people, and provide a space for new activity",
+    "suffix": ". A group that identifies as sol",
+    "start": 54589,
+    "end": 54776,
+    "tags": [
+      "important"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://olh.openlibhums.org/article/id/4597/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 1010,
+            "startOffset": 823,
+            "endContainer": "/div[2]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[8]/p[2]",
+            "startContainer": "/div[2]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[8]/p[2]"
+          },
+          {
+            "end": 54776,
+            "type": "TextPositionSelector",
+            "start": 54589
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "The solarpunk imaginary can then provide a conceptual coherence to an already-mobilised political activity, provide a community of like-minded people, and provide a space for new activity",
+            "prefix": "d to which they can contribute. ",
+            "suffix": ". A group that identifies as sol"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "‘This Shining Confluence of Magic and Technology’: Solarpunk, Energy Imaginaries, and the Infrastructures of Solarity"
+      ]
+    }
+  },
+  {
+    "id": "USQDoCvGEe6--Tcyv7H-wg",
+    "authority": "hypothes.is",
+    "url": "https://olh.openlibhums.org/article/id/4597/",
+    "created": "2023-07-26T15:08:45",
+    "updated": "2023-07-26T15:08:45",
+    "title": "‘This Shining Confluence of Magic and Technology’: Solarpunk, Energy Imaginaries, and the Infrastructures of Solarity",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "",
+    "prefix": ", and gender around the world.\n\n",
+    "exact": "A true ‘world after oil’ for Wilson is ‘a world whose social systems and cultures are no longer shaped by the relations of petro-capitalism but by alternative configurations of energy and political economy’ (2018: 378–9)",
+    "suffix": ". Yet if this were not reason en",
+    "start": 38514,
+    "end": 38734,
+    "tags": [
+      "citation"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://olh.openlibhums.org/article/id/4597/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 220,
+            "startOffset": 0,
+            "endContainer": "/div[2]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[5]/p[5]",
+            "startContainer": "/div[2]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[5]/p[5]"
+          },
+          {
+            "end": 38734,
+            "type": "TextPositionSelector",
+            "start": 38514
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "A true ‘world after oil’ for Wilson is ‘a world whose social systems and cultures are no longer shaped by the relations of petro-capitalism but by alternative configurations of energy and political economy’ (2018: 378–9)",
+            "prefix": ", and gender around the world.\n\n",
+            "suffix": ". Yet if this were not reason en"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "‘This Shining Confluence of Magic and Technology’: Solarpunk, Energy Imaginaries, and the Infrastructures of Solarity"
+      ]
+    }
+  },
+  {
+    "id": "7siJOCvFEe6FlJsvu9MC-A",
+    "authority": "hypothes.is",
+    "url": "https://olh.openlibhums.org/article/id/4597/",
+    "created": "2023-07-26T15:06:00",
+    "updated": "2023-07-26T15:06:00",
+    "title": "‘This Shining Confluence of Magic and Technology’: Solarpunk, Energy Imaginaries, and the Infrastructures of Solarity",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "",
+    "prefix": "wnership is often the norm, and ",
+    "exact": "ideals of community, care, and humility",
+    "suffix": "—particularly with regards to hu",
+    "start": 15136,
+    "end": 15175,
+    "tags": [
+      "important"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://olh.openlibhums.org/article/id/4597/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 597,
+            "startOffset": 558,
+            "endContainer": "/div[2]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[3]/p[1]",
+            "startContainer": "/div[2]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[3]/p[1]"
+          },
+          {
+            "end": 15175,
+            "type": "TextPositionSelector",
+            "start": 15136
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "ideals of community, care, and humility",
+            "prefix": "wnership is often the norm, and ",
+            "suffix": "—particularly with regards to hu"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "‘This Shining Confluence of Magic and Technology’: Solarpunk, Energy Imaginaries, and the Infrastructures of Solarity"
+      ]
+    }
+  },
+  {
+    "id": "n9EAvCvFEe6r74-Yf2qQcw",
+    "authority": "hypothes.is",
+    "url": "https://olh.openlibhums.org/article/id/4597/",
+    "created": "2023-07-26T15:03:48",
+    "updated": "2023-07-26T15:03:48",
+    "title": "‘This Shining Confluence of Magic and Technology’: Solarpunk, Energy Imaginaries, and the Infrastructures of Solarity",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "",
+    "prefix": "the world’ (Larkin, 2013: 331). ",
+    "exact": "They are also constituted by and produce imaginaries",
+    "suffix": ": they ‘operate on the level of ",
+    "start": 12259,
+    "end": 12311,
+    "tags": [
+      "important"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://olh.openlibhums.org/article/id/4597/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 309,
+            "startOffset": 257,
+            "endContainer": "/div[2]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/p[5]",
+            "startContainer": "/div[2]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/p[5]"
+          },
+          {
+            "end": 12311,
+            "type": "TextPositionSelector",
+            "start": 12259
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "They are also constituted by and produce imaginaries",
+            "prefix": "the world’ (Larkin, 2013: 331). ",
+            "suffix": ": they ‘operate on the level of "
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "‘This Shining Confluence of Magic and Technology’: Solarpunk, Energy Imaginaries, and the Infrastructures of Solarity"
+      ]
+    }
+  },
+  {
+    "id": "gyljlivFEe6E29fFgirYaA",
+    "authority": "hypothes.is",
+    "url": "https://olh.openlibhums.org/article/id/4597/",
+    "created": "2023-07-26T15:03:00",
+    "updated": "2023-07-26T15:03:00",
+    "title": "‘This Shining Confluence of Magic and Technology’: Solarpunk, Energy Imaginaries, and the Infrastructures of Solarity",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "",
+    "prefix": "vehicles for their realisation.\n",
+    "exact": "Infrastructures should be understood as both technical systems and ‘social networks’",
+    "suffix": " (Larkin, 2013: 331). They ‘bind",
+    "start": 12002,
+    "end": 12086,
+    "tags": [
+      "important"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://olh.openlibhums.org/article/id/4597/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 84,
+            "startOffset": 0,
+            "endContainer": "/div[2]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/p[5]",
+            "startContainer": "/div[2]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/p[5]"
+          },
+          {
+            "end": 12086,
+            "type": "TextPositionSelector",
+            "start": 12002
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Infrastructures should be understood as both technical systems and ‘social networks’",
+            "prefix": "vehicles for their realisation.\n",
+            "suffix": " (Larkin, 2013: 331). They ‘bind"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "‘This Shining Confluence of Magic and Technology’: Solarpunk, Energy Imaginaries, and the Infrastructures of Solarity"
+      ]
+    }
+  },
+  {
+    "id": "RbmVTivFEe6nF-PDsa1MAg",
+    "authority": "hypothes.is",
+    "url": "https://olh.openlibhums.org/article/id/4597/",
+    "created": "2023-07-26T15:01:17",
+    "updated": "2023-07-26T15:01:17",
+    "title": "‘This Shining Confluence of Magic and Technology’: Solarpunk, Energy Imaginaries, and the Infrastructures of Solarity",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "",
+    "prefix": "social relations it encourages. ",
+    "exact": "As Deborah Cowen puts it, ‘infrastructure is by definition future oriented; it is assembled in the service of worlds to come’ (2017)",
+    "suffix": ". Hence the dense clustering of ",
+    "start": 11571,
+    "end": 11703,
+    "tags": [
+      "citation"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://olh.openlibhums.org/article/id/4597/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 800,
+            "startOffset": 668,
+            "endContainer": "/div[2]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/p[4]",
+            "startContainer": "/div[2]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[2]/p[4]"
+          },
+          {
+            "end": 11703,
+            "type": "TextPositionSelector",
+            "start": 11571
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "As Deborah Cowen puts it, ‘infrastructure is by definition future oriented; it is assembled in the service of worlds to come’ (2017)",
+            "prefix": "social relations it encourages. ",
+            "suffix": ". Hence the dense clustering of "
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "‘This Shining Confluence of Magic and Technology’: Solarpunk, Energy Imaginaries, and the Infrastructures of Solarity"
+      ]
+    }
+  },
+  {
+    "id": "0ucpHivEEe6qyPtZMKZ-3w",
+    "authority": "hypothes.is",
+    "url": "https://olh.openlibhums.org/article/id/4597/",
+    "created": "2023-07-26T14:58:04",
+    "updated": "2023-07-26T14:58:04",
+    "title": "‘This Shining Confluence of Magic and Technology’: Solarpunk, Energy Imaginaries, and the Infrastructures of Solarity",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "solar-punk as speculation",
+    "prefix": "future.2 But what work do these ",
+    "exact": "speculative",
+    "suffix": " energy imaginaries do in the st",
+    "start": 8090,
+    "end": 8101,
+    "tags": [
+      "key-word"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://olh.openlibhums.org/article/id/4597/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 835,
+            "startOffset": 824,
+            "endContainer": "/div[2]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/p[1]",
+            "startContainer": "/div[2]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/p[1]"
+          },
+          {
+            "end": 8101,
+            "type": "TextPositionSelector",
+            "start": 8090
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "speculative",
+            "prefix": "future.2 But what work do these ",
+            "suffix": " energy imaginaries do in the st"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "‘This Shining Confluence of Magic and Technology’: Solarpunk, Energy Imaginaries, and the Infrastructures of Solarity"
+      ]
+    }
+  },
+  {
+    "id": "3fBERCvEEe6E2C_OrCk_gg",
+    "authority": "hypothes.is",
+    "url": "https://olh.openlibhums.org/article/id/4597/",
+    "created": "2023-07-26T14:58:23",
+    "updated": "2023-07-26T14:58:23",
+    "title": "‘This Shining Confluence of Magic and Technology’: Solarpunk, Energy Imaginaries, and the Infrastructures of Solarity",
+    "refs": [
+      "0ucpHivEEe6qyPtZMKZ-3w"
+    ],
+    "isReply": true,
+    "isPagenote": true,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "how about going beyond speculation: into action?",
+    "prefix": "",
+    "exact": "",
+    "suffix": "",
+    "tags": [
+      "important"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://olh.openlibhums.org/article/id/4597/"
+      }
+    ],
+    "document": {
+      "title": [
+        "‘This Shining Confluence of Magic and Technology’: Solarpunk, Energy Imaginaries, and the Infrastructures of Solarity"
+      ]
+    }
+  },
+  {
+    "id": "dOmXNCvEEe6Ze_dqbnLTJQ",
+    "authority": "hypothes.is",
+    "url": "https://olh.openlibhums.org/article/id/4597/",
+    "created": "2023-07-26T14:55:26",
+    "updated": "2023-07-26T14:55:26",
+    "title": "‘This Shining Confluence of Magic and Technology’: Solarpunk, Energy Imaginaries, and the Infrastructures of Solarity",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "",
+    "prefix": "a richly elaborated speculative ",
+    "exact": "solar energy imaginary",
+    "suffix": ". It will ask, firstly, what sol",
+    "start": 3924,
+    "end": 3946,
+    "tags": [
+      "key-word"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "https://olh.openlibhums.org/article/id/4597/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 117,
+            "startOffset": 95,
+            "endContainer": "/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/p[2]",
+            "startContainer": "/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/p[2]"
+          },
+          {
+            "end": 3946,
+            "type": "TextPositionSelector",
+            "start": 3924
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "solar energy imaginary",
+            "prefix": "a richly elaborated speculative ",
+            "suffix": ". It will ask, firstly, what sol"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "‘This Shining Confluence of Magic and Technology’: Solarpunk, Energy Imaginaries, and the Infrastructures of Solarity"
+      ]
+    }
+  },
+  {
+    "id": "PrLAbCs1Ee674muz6xkxQg",
+    "authority": "hypothes.is",
+    "url": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+    "created": "2023-07-25T21:50:17",
+    "updated": "2023-07-25T21:50:17",
+    "title": "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "hd_onions",
+    "displayName": "anonymous onion",
+    "text": "isnt eco-centricism ego-centric eventually? ",
+    "prefix": "ble counter-hegemonic paths for ",
+    "exact": "eco-centric",
+    "suffix": " possibilities. \nWhat Is Solarpu",
+    "start": 6164,
+    "end": 6175,
+    "tags": [],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 867,
+            "startOffset": 856,
+            "endContainer": "/div[1]/div[1]/div[3]/p[10]",
+            "startContainer": "/div[1]/div[1]/div[3]/p[10]"
+          },
+          {
+            "end": 6175,
+            "type": "TextPositionSelector",
+            "start": 6164
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "eco-centric",
+            "prefix": "ble counter-hegemonic paths for ",
+            "suffix": " possibilities. \nWhat Is Solarpu"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education"
+      ]
+    }
+  },
+  {
+    "id": "P-_uuis0Ee6JGYd04O_TSg",
+    "authority": "hypothes.is",
+    "url": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+    "created": "2023-07-25T21:43:10",
+    "updated": "2023-07-25T21:43:10",
+    "title": "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "hd_onions",
+    "displayName": "anonymous onion",
+    "text": "Isabelle Stengers \"In Catastrophic Times: Resisting the Coming Barbarism\"",
+    "prefix": " disaster. \nIf we wish to avoid ",
+    "exact": "climate catastrophes,",
+    "suffix": " we must pursue a different futu",
+    "start": 5328,
+    "end": 5349,
+    "tags": [
+      "reference"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 41,
+            "startOffset": 20,
+            "endContainer": "/div[1]/div[1]/div[3]/p[10]",
+            "startContainer": "/div[1]/div[1]/div[3]/p[10]"
+          },
+          {
+            "end": 5349,
+            "type": "TextPositionSelector",
+            "start": 5328
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "climate catastrophes,",
+            "prefix": " disaster. \nIf we wish to avoid ",
+            "suffix": " we must pursue a different futu"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education"
+      ]
+    }
+  },
+  {
+    "id": "8mJLDCszEe6jq6_VkJaA4g",
+    "authority": "hypothes.is",
+    "url": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+    "created": "2023-07-25T21:41:00",
+    "updated": "2023-07-25T21:41:00",
+    "title": "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "hd_onions",
+    "displayName": "anonymous onion",
+    "text": "one as in individual?",
+    "prefix": "\nFaced with these facts, how is ",
+    "exact": "one",
+    "suffix": " to react? For those aware of th",
+    "start": 4331,
+    "end": 4334,
+    "tags": [],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 34,
+            "startOffset": 31,
+            "endContainer": "/div[1]/div[1]/div[3]/p[9]",
+            "startContainer": "/div[1]/div[1]/div[3]/p[9]"
+          },
+          {
+            "end": 4334,
+            "type": "TextPositionSelector",
+            "start": 4331
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "one",
+            "prefix": "\nFaced with these facts, how is ",
+            "suffix": " to react? For those aware of th"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education"
+      ]
+    }
+  },
+  {
+    "id": "T5I48CmLEe6im5Oswm8hrQ",
+    "authority": "hypothes.is",
+    "url": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+    "created": "2023-07-23T19:01:20",
+    "updated": "2023-07-23T19:01:20",
+    "title": "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "subsignal",
+    "displayName": null,
+    "text": "intertwined relationship between social and ecological discourse",
+    "prefix": "rces and environmental harmony. ",
+    "exact": "Incorporating the insights of social ecology, solarpunk tends to reflect an ethos that “the very notion of the domination of nature by man stems from the very real domination of human by human” (Bookchin, 1982, p. 1).",
+    "suffix": "\nThe vision of solarpunk is one ",
+    "start": 20273,
+    "end": 20490,
+    "tags": [
+      "citation"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 2541,
+            "startOffset": 2324,
+            "endContainer": "/div[1]/div[1]/div[3]/p[31]",
+            "startContainer": "/div[1]/div[1]/div[3]/p[31]"
+          },
+          {
+            "end": 20490,
+            "type": "TextPositionSelector",
+            "start": 20273
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Incorporating the insights of social ecology, solarpunk tends to reflect an ethos that “the very notion of the domination of nature by man stems from the very real domination of human by human” (Bookchin, 1982, p. 1).",
+            "prefix": "rces and environmental harmony. ",
+            "suffix": "\nThe vision of solarpunk is one "
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education"
+      ]
+    }
+  },
+  {
+    "id": "MXUBSimLEe6WraP9gibfNA",
+    "authority": "hypothes.is",
+    "url": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+    "created": "2023-07-23T19:00:30",
+    "updated": "2023-07-23T19:00:30",
+    "title": "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "subsignal",
+    "displayName": null,
+    "text": "&lt3",
+    "prefix": "s an enemy rather than an ally. ",
+    "exact": "Where the logic of capitalism centers on growth at all costs, solarpunk fits much better with an ethic of compassion and temperance in economics.",
+    "suffix": " Perhaps Gregory Scheckler (2018",
+    "start": 18786,
+    "end": 18931,
+    "tags": [
+      "approval"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 982,
+            "startOffset": 837,
+            "endContainer": "/div[1]/div[1]/div[3]/p[31]",
+            "startContainer": "/div[1]/div[1]/div[3]/p[31]"
+          },
+          {
+            "end": 18931,
+            "type": "TextPositionSelector",
+            "start": 18786
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Where the logic of capitalism centers on growth at all costs, solarpunk fits much better with an ethic of compassion and temperance in economics.",
+            "prefix": "s an enemy rather than an ally. ",
+            "suffix": " Perhaps Gregory Scheckler (2018"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education"
+      ]
+    }
+  },
+  {
+    "id": "Pvf1Eik_Ee66rsdby-H4gw",
+    "authority": "hypothes.is",
+    "url": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+    "created": "2023-07-23T09:56:51",
+    "updated": "2023-07-23T09:56:51",
+    "title": "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "subsignal",
+    "displayName": null,
+    "text": "This reminds me of Saul Williams' science fiction musical film 'Neptune Frost' (2021), set in a Coltan mining community in Burundi, who form a hacker collective. Can highly recommend",
+    "prefix": " in clearly non-Western attire. ",
+    "exact": "As speculative fiction concerned with ecological harmony, solarpunk stories often take place in worlds with a past (or a collapsing present), like our own, of mass consumerism, environmental degradation, and colonial exploitation that the characters must deal with (Ulibarri, 2018a).",
+    "suffix": " This, too, grounds similarities",
+    "start": 12555,
+    "end": 12838,
+    "tags": [
+      "commentary"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 1522,
+            "startOffset": 1239,
+            "endContainer": "/div[1]/div[1]/div[3]/p[17]",
+            "startContainer": "/div[1]/div[1]/div[3]/p[17]"
+          },
+          {
+            "end": 12838,
+            "type": "TextPositionSelector",
+            "start": 12555
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "As speculative fiction concerned with ecological harmony, solarpunk stories often take place in worlds with a past (or a collapsing present), like our own, of mass consumerism, environmental degradation, and colonial exploitation that the characters must deal with (Ulibarri, 2018a).",
+            "prefix": " in clearly non-Western attire. ",
+            "suffix": " This, too, grounds similarities"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education"
+      ]
+    }
+  },
+  {
+    "id": "3KbeVik9Ee6Lzx_0ZuEbFA",
+    "authority": "hypothes.is",
+    "url": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+    "created": "2023-07-23T09:46:56",
+    "updated": "2023-07-23T09:46:56",
+    "title": "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "subsignal",
+    "displayName": null,
+    "text": "&lt3",
+    "prefix": " into the twenty-first century. ",
+    "exact": "“Punk” also evokes individuality, although not individualism.",
+    "suffix": " By aligning with the marginaliz",
+    "start": 10862,
+    "end": 10923,
+    "tags": [],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 1069,
+            "startOffset": 1008,
+            "endContainer": "/div[1]/div[1]/div[3]/p[15]",
+            "startContainer": "/div[1]/div[1]/div[3]/p[15]"
+          },
+          {
+            "end": 10923,
+            "type": "TextPositionSelector",
+            "start": 10862
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "“Punk” also evokes individuality, although not individualism.",
+            "prefix": " into the twenty-first century. ",
+            "suffix": " By aligning with the marginaliz"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education"
+      ]
+    }
+  },
+  {
+    "id": "7YXjxifZEe6dzAcG5jeRlg",
+    "authority": "hypothes.is",
+    "url": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+    "created": "2023-07-21T15:19:04",
+    "updated": "2023-07-21T15:19:04",
+    "title": "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "\"hope\" does not mean \"blind\", we need to be very lucid",
+    "prefix": "es is a decadent civilization. \n",
+    "exact": "A civilization that chooses to close its eyes to its most crucial problems is a stricken civilization.",
+    "suffix": " \nA civilization that uses its p",
+    "start": 31208,
+    "end": 31310,
+    "tags": [
+      "important",
+      "reference"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 0,
+            "startOffset": 0,
+            "endContainer": "/div[1]/div[1]/div[3]/p[41]/span[1]",
+            "startContainer": "/div[1]/div[1]/div[3]/p[41]"
+          },
+          {
+            "end": 31310,
+            "type": "TextPositionSelector",
+            "start": 31208
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "A civilization that chooses to close its eyes to its most crucial problems is a stricken civilization.",
+            "prefix": "es is a decadent civilization. \n",
+            "suffix": " \nA civilization that uses its p"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education"
+      ]
+    }
+  },
+  {
+    "id": "e3zxZifZEe6k3H_z8yhJPw",
+    "authority": "hypothes.is",
+    "url": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+    "created": "2023-07-21T15:15:52",
+    "updated": "2023-07-21T15:15:52",
+    "title": "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "very techno-optimistic (like if we, as a specie, could break these physical constraints and barriers of space and time)",
+    "prefix": " (Heer, 2015; Ulibarri, 2018b). ",
+    "exact": "Le Guin’s The Dispossessed is thoroughly a sci-fi story—it features interplanetary travel and a physicist pursuing the method for faster-than-light communication.",
+    "suffix": " Yet, its main claim to fame is ",
+    "start": 14205,
+    "end": 14367,
+    "tags": [
+      "disapproval"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 454,
+            "startOffset": 292,
+            "endContainer": "/div[1]/div[1]/div[3]/p[19]",
+            "startContainer": "/div[1]/div[1]/div[3]/p[19]"
+          },
+          {
+            "end": 14367,
+            "type": "TextPositionSelector",
+            "start": 14205
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Le Guin’s The Dispossessed is thoroughly a sci-fi story—it features interplanetary travel and a physicist pursuing the method for faster-than-light communication.",
+            "prefix": " (Heer, 2015; Ulibarri, 2018b). ",
+            "suffix": " Yet, its main claim to fame is "
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education"
+      ]
+    }
+  },
+  {
+    "id": "Iz61tifZEe6k2y-oK_aaMA",
+    "authority": "hypothes.is",
+    "url": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+    "created": "2023-07-21T15:13:24",
+    "updated": "2023-07-21T15:13:24",
+    "title": "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "",
+    "prefix": "he way toward a livable future. ",
+    "exact": "“Punk” evokes the rebellious and countercultural aspects of the genre.",
+    "suffix": " Fundamentally, solarpunk imagin",
+    "start": 10510,
+    "end": 10580,
+    "tags": [
+      "<3"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 726,
+            "startOffset": 656,
+            "endContainer": "/div[1]/div[1]/div[3]/p[15]",
+            "startContainer": "/div[1]/div[1]/div[3]/p[15]"
+          },
+          {
+            "end": 10580,
+            "type": "TextPositionSelector",
+            "start": 10510
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "“Punk” evokes the rebellious and countercultural aspects of the genre.",
+            "prefix": "he way toward a livable future. ",
+            "suffix": " Fundamentally, solarpunk imagin"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education"
+      ]
+    }
+  },
+  {
+    "id": "cC0mQifYEe6JJrdoqQGMZg",
+    "authority": "hypothes.is",
+    "url": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+    "created": "2023-07-21T15:08:24",
+    "updated": "2023-07-21T15:08:24",
+    "title": "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "reacting or acting beyond mere reaction to events?",
+    "prefix": "with these facts, how is one to ",
+    "exact": "react",
+    "suffix": "? For those aware of this inform",
+    "start": 4338,
+    "end": 4343,
+    "tags": [
+      "key-word"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 43,
+            "startOffset": 38,
+            "endContainer": "/div[1]/div[1]/div[3]/p[9]",
+            "startContainer": "/div[1]/div[1]/div[3]/p[9]"
+          },
+          {
+            "end": 4343,
+            "type": "TextPositionSelector",
+            "start": 4338
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "react",
+            "prefix": "with these facts, how is one to ",
+            "suffix": "? For those aware of this inform"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education"
+      ]
+    }
+  },
+  {
+    "id": "QYmhnifYEe6bNHd3xF1vfQ",
+    "authority": "hypothes.is",
+    "url": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+    "created": "2023-07-21T15:07:05",
+    "updated": "2023-07-21T15:07:05",
+    "title": "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "hopepunk as going beyond cynicism and defeatism about the future. We can do things that transpire hope and that are contagious in doing so ",
+    "prefix": "tly depicts such green futures, ",
+    "exact": "solarpunk may be a valuable tool in promoting action by overcoming widespread cynicism about the future",
+    "suffix": ". Solarpunk fiction is thus a us",
+    "start": 2542,
+    "end": 2645,
+    "tags": [
+      "important"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 538,
+            "startOffset": 435,
+            "endContainer": "/div[1]/div[1]/div[3]/p[4]",
+            "startContainer": "/div[1]/div[1]/div[3]/p[4]"
+          },
+          {
+            "end": 2645,
+            "type": "TextPositionSelector",
+            "start": 2542
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "solarpunk may be a valuable tool in promoting action by overcoming widespread cynicism about the future",
+            "prefix": "tly depicts such green futures, ",
+            "suffix": ". Solarpunk fiction is thus a us"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education"
+      ]
+    }
+  },
+  {
+    "id": "j_XWficEEe6ORDdn6HEdNQ",
+    "authority": "hypothes.is",
+    "url": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+    "created": "2023-07-20T13:51:44",
+    "updated": "2023-07-20T13:51:44",
+    "title": "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "cyberfae1312",
+    "displayName": null,
+    "text": "i like",
+    "prefix": "not perfect. This notion of an “",
+    "exact": "ambiguous utopia",
+    "suffix": "” is also something that solarpu",
+    "start": 14770,
+    "end": 14786,
+    "tags": [
+      "<3"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 873,
+            "startOffset": 857,
+            "endContainer": "/div[1]/div[1]/div[3]/p[19]",
+            "startContainer": "/div[1]/div[1]/div[3]/p[19]"
+          },
+          {
+            "end": 14786,
+            "type": "TextPositionSelector",
+            "start": 14770
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "ambiguous utopia",
+            "prefix": "not perfect. This notion of an “",
+            "suffix": "” is also something that solarpu"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education"
+      ]
+    }
+  },
+  {
+    "id": "ZfJO8icEEe6_5kMKoNT6Aw",
+    "authority": "hypothes.is",
+    "url": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+    "created": "2023-07-20T13:50:33",
+    "updated": "2023-07-20T13:50:33",
+    "title": "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "cyberfae1312",
+    "displayName": null,
+    "text": "",
+    "prefix": "cture fused with greenery, etc. ",
+    "exact": "Much of retrofuturism is rejected by solarpunk: all things nuclear (both family and energy), the reliance on individual transportation (i.e., cars), and the glorification of consumerist culture.",
+    "suffix": "\nOne of the greatest influences ",
+    "start": 13718,
+    "end": 13912,
+    "tags": [
+      "definition"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 939,
+            "startOffset": 745,
+            "endContainer": "/div[1]/div[1]/div[3]/p[18]",
+            "startContainer": "/div[1]/div[1]/div[3]/p[18]"
+          },
+          {
+            "end": 13912,
+            "type": "TextPositionSelector",
+            "start": 13718
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Much of retrofuturism is rejected by solarpunk: all things nuclear (both family and energy), the reliance on individual transportation (i.e., cars), and the glorification of consumerist culture.",
+            "prefix": "cture fused with greenery, etc. ",
+            "suffix": "\nOne of the greatest influences "
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education"
+      ]
+    }
+  },
+  {
+    "id": "Tx76cicEEe6oDfdbvOcLcw",
+    "authority": "hypothes.is",
+    "url": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+    "created": "2023-07-20T13:49:55",
+    "updated": "2023-07-20T13:49:55",
+    "title": "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "cyberfae1312",
+    "displayName": null,
+    "text": "",
+    "prefix": " phrase from Joel Kovel (2014), ",
+    "exact": "the future will be solarpunk, or there will be no future",
+    "suffix": ". Many of the aspects of the fut",
+    "start": 13468,
+    "end": 13524,
+    "tags": [
+      "important"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 551,
+            "startOffset": 495,
+            "endContainer": "/div[1]/div[1]/div[3]/p[18]",
+            "startContainer": "/div[1]/div[1]/div[3]/p[18]"
+          },
+          {
+            "end": 13524,
+            "type": "TextPositionSelector",
+            "start": 13468
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "the future will be solarpunk, or there will be no future",
+            "prefix": " phrase from Joel Kovel (2014), ",
+            "suffix": ". Many of the aspects of the fut"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education"
+      ]
+    }
+  },
+  {
+    "id": "z8XIgicDEe64uC_qYQ8wZA",
+    "authority": "hypothes.is",
+    "url": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+    "created": "2023-07-20T13:46:21",
+    "updated": "2023-07-20T13:46:21",
+    "title": "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "cyberfae1312",
+    "displayName": null,
+    "text": "",
+    "prefix": "ological and social injustices. ",
+    "exact": "Punk has a long history of anti-establishment, anti-authoritarian, and anti-capitalist thought",
+    "suffix": ". Solarpunk proudly carries this",
+    "start": 10694,
+    "end": 10788,
+    "tags": [
+      "important"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 934,
+            "startOffset": 840,
+            "endContainer": "/div[1]/div[1]/div[3]/p[15]",
+            "startContainer": "/div[1]/div[1]/div[3]/p[15]"
+          },
+          {
+            "end": 10788,
+            "type": "TextPositionSelector",
+            "start": 10694
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Punk has a long history of anti-establishment, anti-authoritarian, and anti-capitalist thought",
+            "prefix": "ological and social injustices. ",
+            "suffix": ". Solarpunk proudly carries this"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education"
+      ]
+    }
+  },
+  {
+    "id": "N41t8CfZEe6RB68jJUAR9A",
+    "authority": "hypothes.is",
+    "url": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+    "created": "2023-07-21T15:13:58",
+    "updated": "2023-07-21T15:13:58",
+    "title": "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education",
+    "refs": [
+      "z8XIgicDEe64uC_qYQ8wZA"
+    ],
+    "isReply": true,
+    "isPagenote": true,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "lets keep that in the hopepunk concept indeed",
+    "prefix": "",
+    "exact": "",
+    "suffix": "",
+    "tags": [
+      "approval"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/"
+      }
+    ],
+    "document": {
+      "title": [
+        "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education"
+      ]
+    }
+  },
+  {
+    "id": "kvzUGCcDEe6onQfu9-v-9g",
+    "authority": "hypothes.is",
+    "url": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+    "created": "2023-07-20T13:44:39",
+    "updated": "2023-07-20T13:44:39",
+    "title": "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "cyberfae1312",
+    "displayName": null,
+    "text": "",
+    "prefix": "or a transition to eco-harmony. ",
+    "exact": "The Fifth Sacred Thing by Starhawk (1993)",
+    "suffix": ", of all of solarpunk’s antecede",
+    "start": 9656,
+    "end": 9697,
+    "tags": [
+      "citation"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 805,
+            "startOffset": 0,
+            "endContainer": "/div[1]/div[1]/div[3]/p[14]",
+            "startContainer": "/div[1]/div[1]/div[3]/p[14]/i[4]"
+          },
+          {
+            "end": 9697,
+            "type": "TextPositionSelector",
+            "start": 9656
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "The Fifth Sacred Thing by Starhawk (1993)",
+            "prefix": "or a transition to eco-harmony. ",
+            "suffix": ", of all of solarpunk’s antecede"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education"
+      ]
+    }
+  },
+  {
+    "id": "cNGqJicDEe6mqmMBpVf8jQ",
+    "authority": "hypothes.is",
+    "url": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+    "created": "2023-07-20T13:43:42",
+    "updated": "2023-07-20T13:43:42",
+    "title": "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "cyberfae1312",
+    "displayName": null,
+    "text": "",
+    "prefix": " fiction, broadly conceived, is ",
+    "exact": "Ernest Callenbach’s (1975) Ecotopia",
+    "suffix": ". It reflects the economic revis",
+    "start": 8959,
+    "end": 8994,
+    "tags": [
+      "citation"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 8,
+            "startOffset": 67,
+            "endContainer": "/div[1]/div[1]/div[3]/p[14]/i[1]",
+            "startContainer": "/div[1]/div[1]/div[3]/p[14]"
+          },
+          {
+            "end": 8994,
+            "type": "TextPositionSelector",
+            "start": 8959
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Ernest Callenbach’s (1975) Ecotopia",
+            "prefix": " fiction, broadly conceived, is ",
+            "suffix": ". It reflects the economic revis"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education"
+      ]
+    }
+  },
+  {
+    "id": "D0mG8icDEe6uVWd6cU7-0w",
+    "authority": "hypothes.is",
+    "url": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+    "created": "2023-07-20T13:40:58",
+    "updated": "2023-07-20T13:40:58",
+    "title": "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "cyberfae1312",
+    "displayName": null,
+    "text": "",
+    "prefix": "s way possible (Dincher, 2017). ",
+    "exact": "Cyberpunk stories are filled with the bleak hopelessness of shady corporations and immense income inequality, while solarpunk offers worlds where people are learning to live in balance with one another in the process of learning to live in harmony with the world",
+    "suffix": " (Ulibarri, 2018b).\nWithin this ",
+    "start": 7317,
+    "end": 7579,
+    "tags": [
+      "important"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 1368,
+            "startOffset": 1106,
+            "endContainer": "/div[1]/div[1]/div[3]/p[12]",
+            "startContainer": "/div[1]/div[1]/div[3]/p[12]"
+          },
+          {
+            "end": 7579,
+            "type": "TextPositionSelector",
+            "start": 7317
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Cyberpunk stories are filled with the bleak hopelessness of shady corporations and immense income inequality, while solarpunk offers worlds where people are learning to live in balance with one another in the process of learning to live in harmony with the world",
+            "prefix": "s way possible (Dincher, 2017). ",
+            "suffix": " (Ulibarri, 2018b).\nWithin this "
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education"
+      ]
+    }
+  },
+  {
+    "id": "8BXsHCcCEe64tovwr_yStg",
+    "authority": "hypothes.is",
+    "url": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+    "created": "2023-07-20T13:40:06",
+    "updated": "2023-07-20T13:40:06",
+    "title": "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "cyberfae1312",
+    "displayName": null,
+    "text": "check that ",
+    "prefix": "tech” as such (as, for example, ",
+    "exact": "anarcho-primitivism",
+    "suffix": " does), but rather rejects techn",
+    "start": 6826,
+    "end": 6845,
+    "tags": [],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 634,
+            "startOffset": 615,
+            "endContainer": "/div[1]/div[1]/div[3]/p[12]",
+            "startContainer": "/div[1]/div[1]/div[3]/p[12]"
+          },
+          {
+            "end": 6845,
+            "type": "TextPositionSelector",
+            "start": 6826
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "anarcho-primitivism",
+            "prefix": "tech” as such (as, for example, ",
+            "suffix": " does), but rather rejects techn"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education"
+      ]
+    }
+  },
+  {
+    "id": "4IwlLCcCEe6ZIgMjQeyLOw",
+    "authority": "hypothes.is",
+    "url": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+    "created": "2023-07-20T13:39:40",
+    "updated": "2023-07-20T13:39:40",
+    "title": "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "cyberfae1312",
+    "displayName": null,
+    "text": "",
+    "prefix": "s (Neon Dystopia). By contrast, ",
+    "exact": "solarpunk can be said to be “low carbon, high life",
+    "suffix": ".” Pointedly, solarpunk has no c",
+    "start": 6694,
+    "end": 6744,
+    "tags": [
+      "definition"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 533,
+            "startOffset": 483,
+            "endContainer": "/div[1]/div[1]/div[3]/p[12]",
+            "startContainer": "/div[1]/div[1]/div[3]/p[12]"
+          },
+          {
+            "end": 6744,
+            "type": "TextPositionSelector",
+            "start": 6694
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "solarpunk can be said to be “low carbon, high life",
+            "prefix": "s (Neon Dystopia). By contrast, ",
+            "suffix": ".” Pointedly, solarpunk has no c"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education"
+      ]
+    }
+  },
+  {
+    "id": "0AHNGicCEe6JLpf4XiBRbg",
+    "authority": "hypothes.is",
+    "url": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+    "created": "2023-07-20T13:39:12",
+    "updated": "2023-07-20T13:39:12",
+    "title": "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "cyberfae1312",
+    "displayName": null,
+    "text": "-",
+    "prefix": "oodier older sister, cyberpunk. ",
+    "exact": "Cyberpunk is perhaps most succinctly summed up in the phrase “high tech, low life,” referring to the immense technological development imagined by the genre and its insurmountable social problems (Neon Dystopia)",
+    "suffix": ". By contrast, solarpunk can be ",
+    "start": 6468,
+    "end": 6679,
+    "tags": [
+      "definition"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 468,
+            "startOffset": 0,
+            "endContainer": "/div[1]/div[1]/div[3]/p[12]",
+            "startContainer": "/div[1]/div[1]/div[3]/p[12]/hypothesis-highlight[1]"
+          },
+          {
+            "end": 6679,
+            "type": "TextPositionSelector",
+            "start": 6468
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Cyberpunk is perhaps most succinctly summed up in the phrase “high tech, low life,” referring to the immense technological development imagined by the genre and its insurmountable social problems (Neon Dystopia)",
+            "prefix": "oodier older sister, cyberpunk. ",
+            "suffix": ". By contrast, solarpunk can be "
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education"
+      ]
+    }
+  },
+  {
+    "id": "lMWeSCcCEe6_4ONUBczBTw",
+    "authority": "hypothes.is",
+    "url": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+    "created": "2023-07-20T13:37:33",
+    "updated": "2023-07-20T13:37:33",
+    "title": "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "cyberfae1312",
+    "displayName": null,
+    "text": "sure but there's no way to know if things can unfold towards something we imagine, even if the system becomes more mindful or takes actions ",
+    "prefix": "ks like in which we do succeed. ",
+    "exact": "Without direction, we cannot make demands.",
+    "suffix": " Without an image of what a chan",
+    "start": 5660,
+    "end": 5702,
+    "tags": [],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 394,
+            "startOffset": 352,
+            "endContainer": "/div[1]/div[1]/div[3]/p[10]",
+            "startContainer": "/div[1]/div[1]/div[3]/p[10]"
+          },
+          {
+            "end": 5702,
+            "type": "TextPositionSelector",
+            "start": 5660
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "Without direction, we cannot make demands.",
+            "prefix": "ks like in which we do succeed. ",
+            "suffix": " Without an image of what a chan"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education"
+      ]
+    }
+  },
+  {
+    "id": "-0h4WCfYEe6X0j8CVQ3i3Q",
+    "authority": "hypothes.is",
+    "url": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+    "created": "2023-07-21T15:12:17",
+    "updated": "2023-07-21T15:12:17",
+    "title": "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education",
+    "refs": [
+      "lMWeSCcCEe6_4ONUBczBTw"
+    ],
+    "isReply": true,
+    "isPagenote": true,
+    "user": "felixcat",
+    "displayName": null,
+    "text": "what about multi-directionality? To avoid a form of totalitarianism. Though this multi-directionality could be coordinated and have some common general goals...",
+    "prefix": "",
+    "exact": "",
+    "suffix": "",
+    "tags": [
+      "trouble"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/"
+      }
+    ],
+    "document": {
+      "title": [
+        "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education"
+      ]
+    }
+  },
+  {
+    "id": "y4T2Cis0Ee6tjLNG22UGVQ",
+    "authority": "hypothes.is",
+    "url": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+    "created": "2023-07-25T21:47:04",
+    "updated": "2023-07-25T21:48:58",
+    "title": "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education",
+    "refs": [
+      "lMWeSCcCEe6_4ONUBczBTw",
+      "-0h4WCfYEe6X0j8CVQ3i3Q"
+    ],
+    "isReply": true,
+    "isPagenote": true,
+    "user": "hd_onions",
+    "displayName": "anonymous onion",
+    "text": "i am also not sure about this notion of succeeding / success.. what determines the criteria for success – what defeating the climate catastrophe look like? and anyhow, it has already happened no? i like stengers book and the way she writes about the earth – or gaia,.. who does not give a fu*** and who does not need protection. she is just doing her thing,.. with or without us. ",
+    "prefix": "",
+    "exact": "",
+    "suffix": "",
+    "tags": [],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/"
+      }
+    ],
+    "document": {
+      "title": [
+        "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education"
+      ]
+    }
+  },
+  {
+    "id": "ZMxGVicCEe6XTDf92rVKWg",
+    "authority": "hypothes.is",
+    "url": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+    "created": "2023-07-20T13:36:12",
+    "updated": "2023-07-20T13:36:12",
+    "title": "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "cyberfae1312",
+    "displayName": null,
+    "text": "important",
+    "prefix": "panies fighting climate change: ",
+    "exact": "imagining what the world looks like in which we do succeed",
+    "suffix": ". Without direction, we cannot m",
+    "start": 5600,
+    "end": 5658,
+    "tags": [
+      "important"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 350,
+            "startOffset": 292,
+            "endContainer": "/div[1]/div[1]/div[3]/p[10]",
+            "startContainer": "/div[1]/div[1]/div[3]/p[10]"
+          },
+          {
+            "end": 5658,
+            "type": "TextPositionSelector",
+            "start": 5600
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "imagining what the world looks like in which we do succeed",
+            "prefix": "panies fighting climate change: ",
+            "suffix": ". Without direction, we cannot m"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education"
+      ]
+    }
+  },
+  {
+    "id": "1YJUuCcBEe6XS-8B-DZmGA",
+    "authority": "hypothes.is",
+    "url": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+    "created": "2023-07-20T13:32:12",
+    "updated": "2023-07-20T13:32:12",
+    "title": "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education",
+    "refs": [],
+    "isReply": false,
+    "isPagenote": false,
+    "user": "cyberfae1312",
+    "displayName": null,
+    "text": "",
+    "prefix": "tion; social imaginary; media\n \n",
+    "exact": "“It is easier to imagine the end of the world than it is to imagine the end of capitalism.” (Fisher, 2009, p. 2)",
+    "suffix": "\nDay by day, the dichotomy betwe",
+    "start": 3101,
+    "end": 3213,
+    "tags": [
+      "citation"
+    ],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+        "selector": [
+          {
+            "type": "RangeSelector",
+            "endOffset": 112,
+            "startOffset": 0,
+            "endContainer": "/div[1]/div[1]/div[3]/p[7]",
+            "startContainer": "/div[1]/div[1]/div[3]/p[7]"
+          },
+          {
+            "end": 3213,
+            "type": "TextPositionSelector",
+            "start": 3101
+          },
+          {
+            "type": "TextQuoteSelector",
+            "exact": "“It is easier to imagine the end of the world than it is to imagine the end of capitalism.” (Fisher, 2009, p. 2)",
+            "prefix": "tion; social imaginary; media\n \n",
+            "suffix": "\nDay by day, the dichotomy betwe"
+          }
+        ]
+      }
+    ],
+    "document": {
+      "title": [
+        "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education"
+      ]
+    }
+  },
+  {
+    "id": "t4zp1Cs3Ee6HV7eGXwDGvA",
+    "authority": "hypothes.is",
+    "url": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/",
+    "created": "2023-07-25T22:07:59",
+    "updated": "2023-07-25T22:07:59",
+    "title": "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education",
+    "refs": [
+      "1YJUuCcBEe6XS-8B-DZmGA"
+    ],
+    "isReply": true,
+    "isPagenote": true,
+    "user": "augustomarquet",
+    "displayName": null,
+    "text": "true ! Since I am kid - and previous - I have been promised with the idea of Apocalypses So far it has not happen yet . And the idea it self might be as aold as human . So . Why  to fear destruction; instead of embrace our fragility as human adn  habitats  on this earth . \nThe problem is not to imagine the end ; I think the problem is to call our  fear for dying or disappearing   as  a motor of existence.   The motor in a way should be love  for what you believe; and being responsible for you actions \n at this moment I wan to play \nhttps://www.youtube.com/watch?v=TA38qwVMcik\n",
+    "prefix": "",
+    "exact": "",
+    "suffix": "",
+    "tags": [],
+    "group": "ziX6PGLn",
+    "target": [
+      {
+        "source": "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/"
+      }
+    ],
+    "document": {
+      "title": [
+        "“Solarpunk” & the Pedagogical Value of Utopia « Journal of Sustainability Education"
+      ]
+    }
+  }
+]
