@@ -12,8 +12,8 @@ Our experiment used the social, web annotation tool [Hypothes.is](https://web.hy
 The API gave us the main material to produce [a web-archive of all annotations](https://networkcultures.org/reading-group/textual-reknittings/annotation-archive/all-annotations.html). 
 
 In this repository, you will find:
-- the original data in json and csv format
-- the Jupyter notebook for making some visualizations and charts in Python using Pandas and MatPlotLib
+- the raw data of the annotations in json and csv format
+- the Jupyter notebook for making some visualizations and charts of the data in Python, using Pandas and MatPlotLib
 - a Gephi network visualization file, with its respective nodes and edges xlsx files
 - a proposed ontology for the data of the digital social text, in OWL, RDF and TTL formats
 
