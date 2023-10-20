@@ -1,0 +1,566 @@
+@prefix : <https://github.com/victorchaix/annotation-data-thesis/tree/main/Ontology#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <https://github.com/victorchaix/annotation-data-thesis/tree/main/Ontology> .
+
+<https://github.com/victorchaix/annotation-data-thesis/tree/main/Ontology> rdf:type owl:Ontology ;
+                                                                            rdfs:comment "Ontology of the Textual Reknittings Workshop as part of Victor Chaix's Master thesis in Digitial Humanities and Digital Knowledge, at the University of Bologna" ;
+                                                                            rdfs:label "TextualReknittingsOntology" ;
+                                                                            owl:versionInfo 2023 .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://purl.org/dc/terms/creator
+<http://purl.org/dc/terms/creator> rdf:type owl:ObjectProperty ;
+                                   rdfs:domain <http://purl.org/ontology/TextualReknittings/Text> ;
+                                   rdfs:range <http://purl.org/ontology/TextualReknittings/Individuator> .
+
+
+###  http://purl.org/ontology/TextualReknittings/chosenBy
+<http://purl.org/ontology/TextualReknittings/chosenBy> rdf:type owl:ObjectProperty ;
+                                                       rdfs:subPropertyOf owl:topObjectProperty ;
+                                                       rdfs:domain <http://purl.org/ontology/TextualReknittings/InitialText> ;
+                                                       rdfs:range <http://purl.org/ontology/TextualReknittings/Group> .
+
+
+###  http://purl.org/ontology/TextualReknittings/hasCategories
+<http://purl.org/ontology/TextualReknittings/hasCategories> rdf:type owl:ObjectProperty ;
+                                                            rdfs:subPropertyOf owl:topObjectProperty ;
+                                                            rdfs:domain <http://purl.org/ontology/TextualReknittings/RefragmentedWiki> ;
+                                                            rdfs:range <http://purl.org/ontology/TextualReknittings/Tag> .
+
+
+###  http://purl.org/ontology/TextualReknittings/hasComment
+<http://purl.org/ontology/TextualReknittings/hasComment> rdf:type owl:ObjectProperty ;
+                                                         rdfs:domain <http://purl.org/ontology/TextualReknittings/TextAnnotation> ;
+                                                         rdfs:range <http://purl.org/ontology/TextualReknittings/TextAnnotation> .
+
+
+###  http://www.purl.org/ontology/TextualReknittings/hasTag
+<http://www.purl.org/ontology/TextualReknittings/hasTag> rdf:type owl:ObjectProperty ;
+                                                         rdfs:domain <http://purl.org/ontology/TextualReknittings/TextAnnotation> ;
+                                                         rdfs:range <http://purl.org/ontology/TextualReknittings/Tag> .
+
+
+###  http://www.w3.org/2002/07/owl#topObjectProperty
+owl:topObjectProperty owl:inverseOf owl:topObjectProperty ;
+                      rdf:type owl:SymmetricProperty ,
+                               owl:TransitiveProperty .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://purl.org/ontology/TextualReknittings/containsText
+<http://purl.org/ontology/TextualReknittings/containsText> rdf:type owl:DatatypeProperty ;
+                                                           rdfs:domain <http://purl.org/ontology/TextualReknittings/TextAnnotation> ;
+                                                           rdfs:range rdfs:Literal ;
+                                                           rdfs:comment "The text that is included in an annotation." .
+
+
+###  http://purl.org/ontology/TextualReknittings/hasSource
+<http://purl.org/ontology/TextualReknittings/hasSource> rdf:type owl:DatatypeProperty ;
+                                                        rdfs:domain <http://purl.org/ontology/TextualReknittings/InitialText> ;
+                                                        rdfs:range rdfs:Literal ;
+                                                        rdfs:comment "The URL of the web text that has been read." .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://purl.org/ontology/TextualReknittings/Affection
+<http://purl.org/ontology/TextualReknittings/Affection> rdf:type owl:Class ;
+                                                        rdfs:subClassOf <http://purl.org/ontology/TextualReknittings/Tag> ;
+                                                        owl:disjointWith <http://purl.org/ontology/TextualReknittings/Annotator> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/Approval> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/Categorizer> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/Citation> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/Commentary> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/Curator> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/Disapproval> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/Group> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/Important> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/Individual> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/Individuator> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/Key-word> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/Rewriter> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/Trouble> ;
+                                                        rdfs:comment "What is appreciated, well formulated, touches the emotions." .
+
+
+###  http://purl.org/ontology/TextualReknittings/Annotator
+<http://purl.org/ontology/TextualReknittings/Annotator> rdf:type owl:Class ;
+                                                        rdfs:subClassOf <http://purl.org/ontology/TextualReknittings/Individual> ;
+                                                        owl:disjointWith <http://purl.org/ontology/TextualReknittings/Approval> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/Categorizer> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/Citation> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/Commentary> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/Curator> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/Disapproval> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/Important> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/InitialText> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/Key-word> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/RefragmentedWiki> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/Rewriting> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/Tag> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/Text> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/TextAnnotation> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/Trouble> ;
+                                                        rdfs:comment "Individual that has annotated or replied to annotations over texts of the digital social reading experiment." .
+
+
+###  http://purl.org/ontology/TextualReknittings/Approval
+<http://purl.org/ontology/TextualReknittings/Approval> rdf:type owl:Class ;
+                                                       rdfs:subClassOf <http://purl.org/ontology/TextualReknittings/Tag> ;
+                                                       owl:disjointWith <http://purl.org/ontology/TextualReknittings/Categorizer> ,
+                                                                        <http://purl.org/ontology/TextualReknittings/Citation> ,
+                                                                        <http://purl.org/ontology/TextualReknittings/Commentary> ,
+                                                                        <http://purl.org/ontology/TextualReknittings/Curator> ,
+                                                                        <http://purl.org/ontology/TextualReknittings/Disapproval> ,
+                                                                        <http://purl.org/ontology/TextualReknittings/Group> ,
+                                                                        <http://purl.org/ontology/TextualReknittings/Important> ,
+                                                                        <http://purl.org/ontology/TextualReknittings/Individual> ,
+                                                                        <http://purl.org/ontology/TextualReknittings/Individuator> ,
+                                                                        <http://purl.org/ontology/TextualReknittings/Key-word> ,
+                                                                        <http://purl.org/ontology/TextualReknittings/Rewriter> ,
+                                                                        <http://purl.org/ontology/TextualReknittings/Trouble> ;
+                                                       rdfs:comment "What is agreed upon, fits into preconceptions." .
+
+
+###  http://purl.org/ontology/TextualReknittings/Categorizer
+<http://purl.org/ontology/TextualReknittings/Categorizer> rdf:type owl:Class ;
+                                                          rdfs:subClassOf <http://purl.org/ontology/TextualReknittings/Individual> ;
+                                                          owl:disjointWith <http://purl.org/ontology/TextualReknittings/Citation> ,
+                                                                           <http://purl.org/ontology/TextualReknittings/Commentary> ,
+                                                                           <http://purl.org/ontology/TextualReknittings/Disapproval> ,
+                                                                           <http://purl.org/ontology/TextualReknittings/Important> ,
+                                                                           <http://purl.org/ontology/TextualReknittings/InitialText> ,
+                                                                           <http://purl.org/ontology/TextualReknittings/Key-word> ,
+                                                                           <http://purl.org/ontology/TextualReknittings/RefragmentedWiki> ,
+                                                                           <http://purl.org/ontology/TextualReknittings/Rewriting> ,
+                                                                           <http://purl.org/ontology/TextualReknittings/Tag> ,
+                                                                           <http://purl.org/ontology/TextualReknittings/Text> ,
+                                                                           <http://purl.org/ontology/TextualReknittings/TextAnnotation> ,
+                                                                           <http://purl.org/ontology/TextualReknittings/Trouble> ;
+                                                          rdfs:comment "The individual responsible for the further tagging of the rewritten output in a wiki format, so that fragments of the output can also serve as an organized and categorized archive for the group." .
+
+
+###  http://purl.org/ontology/TextualReknittings/Citation
+<http://purl.org/ontology/TextualReknittings/Citation> rdf:type owl:Class ;
+                                                       rdfs:subClassOf <http://purl.org/ontology/TextualReknittings/Tag> ;
+                                                       owl:disjointWith <http://purl.org/ontology/TextualReknittings/Commentary> ,
+                                                                        <http://purl.org/ontology/TextualReknittings/Curator> ,
+                                                                        <http://purl.org/ontology/TextualReknittings/Disapproval> ,
+                                                                        <http://purl.org/ontology/TextualReknittings/Group> ,
+                                                                        <http://purl.org/ontology/TextualReknittings/Important> ,
+                                                                        <http://purl.org/ontology/TextualReknittings/Individual> ,
+                                                                        <http://purl.org/ontology/TextualReknittings/Individuator> ,
+                                                                        <http://purl.org/ontology/TextualReknittings/Key-word> ,
+                                                                        <http://purl.org/ontology/TextualReknittings/Rewriter> ,
+                                                                        <http://purl.org/ontology/TextualReknittings/Trouble> ;
+                                                       rdfs:comment "What strikes out as important external material/reference, supports an idea." .
+
+
+###  http://purl.org/ontology/TextualReknittings/Commentary
+<http://purl.org/ontology/TextualReknittings/Commentary> rdf:type owl:Class ;
+                                                         rdfs:subClassOf <http://purl.org/ontology/TextualReknittings/Tag> ;
+                                                         owl:disjointWith <http://purl.org/ontology/TextualReknittings/Curator> ,
+                                                                          <http://purl.org/ontology/TextualReknittings/Disapproval> ,
+                                                                          <http://purl.org/ontology/TextualReknittings/Group> ,
+                                                                          <http://purl.org/ontology/TextualReknittings/Important> ,
+                                                                          <http://purl.org/ontology/TextualReknittings/Individual> ,
+                                                                          <http://purl.org/ontology/TextualReknittings/Individuator> ,
+                                                                          <http://purl.org/ontology/TextualReknittings/Key-word> ,
+                                                                          <http://purl.org/ontology/TextualReknittings/Rewriter> ,
+                                                                          <http://purl.org/ontology/TextualReknittings/Trouble> ;
+                                                         rdfs:comment "wWhat is missing from the textual information and should be added." .
+
+
+###  http://purl.org/ontology/TextualReknittings/Curator
+<http://purl.org/ontology/TextualReknittings/Curator> rdf:type owl:Class ;
+                                                      rdfs:subClassOf <http://purl.org/ontology/TextualReknittings/Individual> ;
+                                                      owl:disjointWith <http://purl.org/ontology/TextualReknittings/Disapproval> ,
+                                                                       <http://purl.org/ontology/TextualReknittings/Important> ,
+                                                                       <http://purl.org/ontology/TextualReknittings/InitialText> ,
+                                                                       <http://purl.org/ontology/TextualReknittings/Key-word> ,
+                                                                       <http://purl.org/ontology/TextualReknittings/RefragmentedWiki> ,
+                                                                       <http://purl.org/ontology/TextualReknittings/Rewriting> ,
+                                                                       <http://purl.org/ontology/TextualReknittings/Tag> ,
+                                                                       <http://purl.org/ontology/TextualReknittings/Text> ,
+                                                                       <http://purl.org/ontology/TextualReknittings/TextAnnotation> ,
+                                                                       <http://purl.org/ontology/TextualReknittings/Trouble> ;
+                                                      rdfs:comment "The individual that is responsible for coordinating the digital social reading experiment, by animating it and by specifying to the participants the different tags, practices and goals." .
+
+
+###  http://purl.org/ontology/TextualReknittings/Disapproval
+<http://purl.org/ontology/TextualReknittings/Disapproval> rdf:type owl:Class ;
+                                                          rdfs:subClassOf <http://purl.org/ontology/TextualReknittings/Tag> ;
+                                                          owl:disjointWith <http://purl.org/ontology/TextualReknittings/Group> ,
+                                                                           <http://purl.org/ontology/TextualReknittings/Important> ,
+                                                                           <http://purl.org/ontology/TextualReknittings/Individual> ,
+                                                                           <http://purl.org/ontology/TextualReknittings/Individuator> ,
+                                                                           <http://purl.org/ontology/TextualReknittings/Key-word> ,
+                                                                           <http://purl.org/ontology/TextualReknittings/Rewriter> ,
+                                                                           <http://purl.org/ontology/TextualReknittings/Trouble> ;
+                                                          rdfs:comment "What is disagreed upon, does not fit into preconceptions." .
+
+
+###  http://purl.org/ontology/TextualReknittings/Group
+<http://purl.org/ontology/TextualReknittings/Group> rdf:type owl:Class ;
+                                                    rdfs:subClassOf <http://purl.org/ontology/TextualReknittings/Individuator> ;
+                                                    owl:disjointWith <http://purl.org/ontology/TextualReknittings/Important> ,
+                                                                     <http://purl.org/ontology/TextualReknittings/InitialText> ,
+                                                                     <http://purl.org/ontology/TextualReknittings/Key-word> ,
+                                                                     <http://purl.org/ontology/TextualReknittings/RefragmentedWiki> ,
+                                                                     <http://purl.org/ontology/TextualReknittings/Rewriting> ,
+                                                                     <http://purl.org/ontology/TextualReknittings/Tag> ,
+                                                                     <http://purl.org/ontology/TextualReknittings/Text> ,
+                                                                     <http://purl.org/ontology/TextualReknittings/TextAnnotation> ,
+                                                                     <http://purl.org/ontology/TextualReknittings/Trouble> ;
+                                                    rdfs:comment "The \"we\" that is taking consistency as part of the simultaneous rewriting of the different annotations, made in the reading and annotating part." .
+
+
+###  http://purl.org/ontology/TextualReknittings/Important
+<http://purl.org/ontology/TextualReknittings/Important> rdf:type owl:Class ;
+                                                        rdfs:subClassOf <http://purl.org/ontology/TextualReknittings/Tag> ;
+                                                        owl:disjointWith <http://purl.org/ontology/TextualReknittings/Individual> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/Individuator> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/Key-word> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/Rewriter> ,
+                                                                         <http://purl.org/ontology/TextualReknittings/Trouble> ;
+                                                        rdfs:comment "What supports." .
+
+
+###  http://purl.org/ontology/TextualReknittings/Individual
+<http://purl.org/ontology/TextualReknittings/Individual> rdf:type owl:Class ;
+                                                         rdfs:subClassOf <http://purl.org/ontology/TextualReknittings/Individuator> ;
+                                                         owl:disjointWith <http://purl.org/ontology/TextualReknittings/InitialText> ,
+                                                                          <http://purl.org/ontology/TextualReknittings/Key-word> ,
+                                                                          <http://purl.org/ontology/TextualReknittings/RefragmentedWiki> ,
+                                                                          <http://purl.org/ontology/TextualReknittings/Rewriting> ,
+                                                                          <http://purl.org/ontology/TextualReknittings/Tag> ,
+                                                                          <http://purl.org/ontology/TextualReknittings/Text> ,
+                                                                          <http://purl.org/ontology/TextualReknittings/TextAnnotation> ,
+                                                                          <http://purl.org/ontology/TextualReknittings/Trouble> ;
+                                                         rdfs:comment "Participant to the curation, annotation and further categorization of the output of a digital social reading experiment." .
+
+
+###  http://purl.org/ontology/TextualReknittings/Individuator
+<http://purl.org/ontology/TextualReknittings/Individuator> rdf:type owl:Class ;
+                                                           owl:disjointWith <http://purl.org/ontology/TextualReknittings/InitialText> ,
+                                                                            <http://purl.org/ontology/TextualReknittings/Key-word> ,
+                                                                            <http://purl.org/ontology/TextualReknittings/RefragmentedWiki> ,
+                                                                            <http://purl.org/ontology/TextualReknittings/Rewriting> ,
+                                                                            <http://purl.org/ontology/TextualReknittings/Tag> ,
+                                                                            <http://purl.org/ontology/TextualReknittings/Text> ,
+                                                                            <http://purl.org/ontology/TextualReknittings/TextAnnotation> ,
+                                                                            <http://purl.org/ontology/TextualReknittings/Trouble> ;
+                                                           rdfs:comment "Individuator consists of the human reader or writer which individuates a text - that is, adds developments to it through annotation and/or rewriting - and concomitantly to this process, individuates itself." ;
+                                                           rdfs:seeAlso "https://arsindustrialis.org/individuation" .
+
+
+###  http://purl.org/ontology/TextualReknittings/InitialText
+<http://purl.org/ontology/TextualReknittings/InitialText> rdf:type owl:Class ;
+                                                          rdfs:subClassOf <http://purl.org/ontology/TextualReknittings/Text> ;
+                                                          owl:disjointWith <http://purl.org/ontology/TextualReknittings/RefragmentedWiki> ,
+                                                                           <http://purl.org/ontology/TextualReknittings/Rewriter> ,
+                                                                           <http://purl.org/ontology/TextualReknittings/Rewriting> ,
+                                                                           <http://purl.org/ontology/TextualReknittings/TextAnnotation> ;
+                                                          rdfs:comment "InitialText is a text chosen by the group to read and annotate collectively, to produce a collective interpretation and appropriation of it for the group's own goals." .
+
+
+###  http://purl.org/ontology/TextualReknittings/Key-word
+<http://purl.org/ontology/TextualReknittings/Key-word> rdf:type owl:Class ;
+                                                       rdfs:subClassOf <http://purl.org/ontology/TextualReknittings/Tag> ;
+                                                       owl:disjointWith <http://purl.org/ontology/TextualReknittings/Rewriter> ,
+                                                                        <http://purl.org/ontology/TextualReknittings/Trouble> ;
+                                                       rdfs:comment "What strikes out as key notions in a text, central to an idea/argument." .
+
+
+###  http://purl.org/ontology/TextualReknittings/RefragmentedWiki
+<http://purl.org/ontology/TextualReknittings/RefragmentedWiki> rdf:type owl:Class ;
+                                                               rdfs:subClassOf <http://purl.org/ontology/TextualReknittings/Text> ;
+                                                               owl:disjointWith <http://purl.org/ontology/TextualReknittings/Rewriter> ,
+                                                                                <http://purl.org/ontology/TextualReknittings/TextAnnotation> ;
+                                                               rdfs:comment "RefragmentedWiki consists of the further tagging of the rewritten output, in a wiki webpage that separates the different parts of the output as well as the categories of each of its textual fragments. Navigation in the wiki is as such possible through either through the linear parts of the rewritten output or the non-linear tags that have been added to it." ;
+                                                               rdfs:seeAlso "https://networkcultures.org/reading-group/textual-reknittings/non-linear-output/reports.html" .
+
+
+###  http://purl.org/ontology/TextualReknittings/Rewriter
+<http://purl.org/ontology/TextualReknittings/Rewriter> rdf:type owl:Class ;
+                                                       rdfs:subClassOf <http://purl.org/ontology/TextualReknittings/Group> ;
+                                                       owl:disjointWith <http://purl.org/ontology/TextualReknittings/Rewriting> ,
+                                                                        <http://purl.org/ontology/TextualReknittings/Tag> ,
+                                                                        <http://purl.org/ontology/TextualReknittings/Text> ,
+                                                                        <http://purl.org/ontology/TextualReknittings/TextAnnotation> ,
+                                                                        <http://purl.org/ontology/TextualReknittings/Trouble> ;
+                                                       rdfs:comment "The rewriter is necessarily a group activity so that the digital social reading experiment becomes a digital social writing one, and for the produced digital social text to reflect a collective interpretation and appropriation of the initial texts." .
+
+
+###  http://purl.org/ontology/TextualReknittings/Rewriting
+<http://purl.org/ontology/TextualReknittings/Rewriting> rdf:type owl:Class ;
+                                                        rdfs:subClassOf <http://purl.org/ontology/TextualReknittings/Text> ;
+                                                        owl:disjointWith <http://purl.org/ontology/TextualReknittings/TextAnnotation> ;
+                                                        rdfs:comment "Rewriting refers to the creative juxtaposition of annotations and their replies, to produce a new text that is a collective interpretation and appropriation of the initial texts." ;
+                                                        rdfs:seeAlso "https://networkcultures.org/reading-group/textual-reknittings/textual-reknittings.html" .
+
+
+###  http://purl.org/ontology/TextualReknittings/Tag
+<http://purl.org/ontology/TextualReknittings/Tag> rdf:type owl:Class ;
+                                                  rdfs:comment "A tag is a meta-categories that has been specified and adopted as part of a digital social reading experiment, to categorize an annotation or annotation-reply. A tag can also serve for a refragmented wiki of a collective rewriting." .
+
+
+###  http://purl.org/ontology/TextualReknittings/Text
+<http://purl.org/ontology/TextualReknittings/Text> rdf:type owl:Class ;
+                                                   rdfs:comment "TextType refers to a different state of the text in the process a digital social text experiment: either an initial chosen text on the web, an annotation or annotation reply, a rewriting of the annotations and selected fragments, or a refragmented wiki of the rewriting output." ;
+                                                   rdfs:seeAlso "https://hackersanddesigners.nl/s/Summer_Camp_2023/p/Textual_Re-knittings" .
+
+
+###  http://purl.org/ontology/TextualReknittings/TextAnnotation
+<http://purl.org/ontology/TextualReknittings/TextAnnotation> rdf:type owl:Class ;
+                                                             rdfs:subClassOf <http://purl.org/ontology/TextualReknittings/Text> ;
+                                                             rdfs:comment "TextAnnotation is a selected fragment in the text that is read, that can be tagged and commented." ;
+                                                             rdfs:seeAlso "https://networkcultures.org/longform/2023/07/13/hypothes-is-a-story-of-playing-with-digital-texts-expandable-confines/" ,
+                                                                          "https://networkcultures.org/reading-group/textual-reknittings/annotation-archive/all-annotations.html" .
+
+
+###  http://purl.org/ontology/TextualReknittings/Trouble
+<http://purl.org/ontology/TextualReknittings/Trouble> rdf:type owl:Class ;
+                                                      rdfs:subClassOf <http://purl.org/ontology/TextualReknittings/Tag> ;
+                                                      rdfs:comment "What suprises." .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  https://w3id.org/arco/ontology/core/Careful_Slugs_vs_Computer_Science
+<https://w3id.org/arco/ontology/core/Careful_Slugs_vs_Computer_Science> rdf:type owl:NamedIndividual ,
+                                                                                 <http://purl.org/ontology/TextualReknittings/RefragmentedWiki> ,
+                                                                                 <http://purl.org/ontology/TextualReknittings/Rewriting> ,
+                                                                                 <http://purl.org/ontology/TextualReknittings/Text> ;
+                                                                        rdfs:comment "Part of the rewriting output and wiki." ;
+                                                                        rdfs:seeAlso "https://networkcultures.org/reading-group/textual-reknittings/textual-reknittings.html#careful-slugs-vs-computer-science" .
+
+
+###  https://w3id.org/arco/ontology/core/Community_and_Infrastructure
+<https://w3id.org/arco/ontology/core/Community_and_Infrastructure> rdf:type owl:NamedIndividual ,
+                                                                            <http://purl.org/ontology/TextualReknittings/RefragmentedWiki> ,
+                                                                            <http://purl.org/ontology/TextualReknittings/Rewriting> ,
+                                                                            <http://purl.org/ontology/TextualReknittings/Text> ;
+                                                                   rdfs:comment "Part of the rewriting output and wiki." ;
+                                                                   rdfs:seeAlso "https://networkcultures.org/reading-group/textual-reknittings/textual-reknittings.html#community-and-infrastructure" .
+
+
+###  https://w3id.org/arco/ontology/core/Drix
+<https://w3id.org/arco/ontology/core/Drix> rdf:type owl:NamedIndividual ,
+                                                    <http://purl.org/ontology/TextualReknittings/Annotator> ,
+                                                    <http://purl.org/ontology/TextualReknittings/Group> ,
+                                                    <http://purl.org/ontology/TextualReknittings/Individual> ,
+                                                    <http://purl.org/ontology/TextualReknittings/Individuator> ,
+                                                    <http://purl.org/ontology/TextualReknittings/Rewriter> ;
+                                           rdfs:comment "Annotator and participant to the collective rewriting (anonymous)." .
+
+
+###  https://w3id.org/arco/ontology/core/For_Careful_Slugs_Caring_for_Unknowing_in_CS
+<https://w3id.org/arco/ontology/core/For_Careful_Slugs_Caring_for_Unknowing_in_CS> rdf:type owl:NamedIndividual ,
+                                                                                            <http://purl.org/ontology/TextualReknittings/InitialText> ,
+                                                                                            <http://purl.org/ontology/TextualReknittings/Text> ;
+                                                                                   rdfs:comment "Chosen initial text." ;
+                                                                                   rdfs:seeAlso "https://catalystjournal.org/index.php/catalyst/article/view/37723/30027" .
+
+
+###  https://w3id.org/arco/ontology/core/Planetary_Infrastructure_as_Resistance
+<https://w3id.org/arco/ontology/core/Planetary_Infrastructure_as_Resistance> rdf:type owl:NamedIndividual ,
+                                                                                      <http://purl.org/ontology/TextualReknittings/InitialText> ,
+                                                                                      <http://purl.org/ontology/TextualReknittings/Text> ;
+                                                                             rdfs:comment "Chosen initial text." ;
+                                                                             rdfs:seeAlso "https://zine.zora.co/solarpunk-web3-kareola" .
+
+
+###  https://w3id.org/arco/ontology/core/Selby
+<https://w3id.org/arco/ontology/core/Selby> rdf:type owl:NamedIndividual ,
+                                                     <http://purl.org/ontology/TextualReknittings/Annotator> ,
+                                                     <http://purl.org/ontology/TextualReknittings/Individual> ,
+                                                     <http://purl.org/ontology/TextualReknittings/Individuator> ;
+                                            rdfs:comment "Annotator (not anonymous)." .
+
+
+###  https://w3id.org/arco/ontology/core/Solarpunk_Energy_Imaginaries_and_the_Infrastructures_of_Solidarity
+<https://w3id.org/arco/ontology/core/Solarpunk_Energy_Imaginaries_and_the_Infrastructures_of_Solidarity> rdf:type owl:NamedIndividual ,
+                                                                                                                  <http://purl.org/ontology/TextualReknittings/InitialText> ,
+                                                                                                                  <http://purl.org/ontology/TextualReknittings/Text> ;
+                                                                                                         rdfs:comment "Chosen initial text." ;
+                                                                                                         rdfs:seeAlso "https://olh.openlibhums.org/article/id/4597/" .
+
+
+###  https://w3id.org/arco/ontology/core/TextualReknittingsWorkshopParticipants
+<https://w3id.org/arco/ontology/core/TextualReknittingsWorkshopParticipants> rdf:type owl:NamedIndividual ,
+                                                                                      <http://purl.org/ontology/TextualReknittings/Group> ,
+                                                                                      <http://purl.org/ontology/TextualReknittings/Individuator> ;
+                                                                             rdfs:comment "Participants to the workshop in general." ;
+                                                                             rdfs:seeAlso "https://hackersanddesigners.nl/s/Summer_Camp_2023/p/Textual_Re-knittings" .
+
+
+###  https://w3id.org/arco/ontology/core/The_End_of_the_World
+<https://w3id.org/arco/ontology/core/The_End_of_the_World> rdf:type owl:NamedIndividual ,
+                                                                    <http://purl.org/ontology/TextualReknittings/RefragmentedWiki> ,
+                                                                    <http://purl.org/ontology/TextualReknittings/Rewriting> ,
+                                                                    <http://purl.org/ontology/TextualReknittings/Text> ;
+                                                           rdfs:comment "Part of the rewriting output and wiki." ;
+                                                           rdfs:seeAlso "https://networkcultures.org/reading-group/textual-reknittings/textual-reknittings.html#the-end-of-the-world" .
+
+
+###  https://w3id.org/arco/ontology/core/VictorChaix
+<https://w3id.org/arco/ontology/core/VictorChaix> rdf:type owl:NamedIndividual ,
+                                                           <http://purl.org/ontology/TextualReknittings/Categorizer> ,
+                                                           <http://purl.org/ontology/TextualReknittings/Curator> ,
+                                                           <http://purl.org/ontology/TextualReknittings/Individual> ,
+                                                           <http://purl.org/ontology/TextualReknittings/Individuator> ;
+                                                  rdfs:comment "Curator and categorizer (not anonymous)." .
+
+
+###  https://w3id.org/arco/ontology/core/What_is_Solarpunk
+<https://w3id.org/arco/ontology/core/What_is_Solarpunk> rdf:type owl:NamedIndividual ,
+                                                                 <http://purl.org/ontology/TextualReknittings/RefragmentedWiki> ,
+                                                                 <http://purl.org/ontology/TextualReknittings/Rewriting> ,
+                                                                 <http://purl.org/ontology/TextualReknittings/Text> ;
+                                                        rdfs:comment "Part of the rewriting output and wiki." ;
+                                                        rdfs:seeAlso "https://networkcultures.org/reading-group/textual-reknittings/textual-reknittings.html#what-is-solar-punk" .
+
+
+###  https://w3id.org/arco/ontology/core/anionet
+<https://w3id.org/arco/ontology/core/anionet> rdf:type owl:NamedIndividual ,
+                                                       <http://purl.org/ontology/TextualReknittings/Annotator> ,
+                                                       <http://purl.org/ontology/TextualReknittings/Individual> ,
+                                                       <http://purl.org/ontology/TextualReknittings/Individuator> ;
+                                              rdfs:comment "Annotator (anonymous)." .
+
+
+###  https://w3id.org/arco/ontology/core/anonymous_onions
+<https://w3id.org/arco/ontology/core/anonymous_onions> rdf:type owl:NamedIndividual ,
+                                                                <http://purl.org/ontology/TextualReknittings/Group> ,
+                                                                <http://purl.org/ontology/TextualReknittings/Individuator> ,
+                                                                <http://purl.org/ontology/TextualReknittings/Rewriter> ;
+                                                       rdfs:comment "Participant to the collective rewriting (anonymous)." .
+
+
+###  https://w3id.org/arco/ontology/core/augustomarquet
+<https://w3id.org/arco/ontology/core/augustomarquet> rdf:type owl:NamedIndividual ,
+                                                              <http://purl.org/ontology/TextualReknittings/Annotator> ,
+                                                              <http://purl.org/ontology/TextualReknittings/Individual> ,
+                                                              <http://purl.org/ontology/TextualReknittings/Individuator> ;
+                                                     rdfs:comment "Annotator (not anonymous)." .
+
+
+###  https://w3id.org/arco/ontology/core/björn
+<https://w3id.org/arco/ontology/core/björn> rdf:type owl:NamedIndividual ,
+                                                     <http://purl.org/ontology/TextualReknittings/Group> ,
+                                                     <http://purl.org/ontology/TextualReknittings/Individuator> ,
+                                                     <http://purl.org/ontology/TextualReknittings/Rewriter> ;
+                                            rdfs:comment "Participant to the collective rewriting (anonymous)." .
+
+
+###  https://w3id.org/arco/ontology/core/bnjmn
+<https://w3id.org/arco/ontology/core/bnjmn> rdf:type owl:NamedIndividual ,
+                                                     <http://purl.org/ontology/TextualReknittings/Group> ,
+                                                     <http://purl.org/ontology/TextualReknittings/Individuator> ,
+                                                     <http://purl.org/ontology/TextualReknittings/Rewriter> ;
+                                            rdfs:comment "Participant to the collective rewriting (anonymous)." .
+
+
+###  https://w3id.org/arco/ontology/core/cyberfae1312
+<https://w3id.org/arco/ontology/core/cyberfae1312> rdf:type owl:NamedIndividual ,
+                                                            <http://purl.org/ontology/TextualReknittings/Annotator> ,
+                                                            <http://purl.org/ontology/TextualReknittings/Group> ,
+                                                            <http://purl.org/ontology/TextualReknittings/Individual> ,
+                                                            <http://purl.org/ontology/TextualReknittings/Individuator> ,
+                                                            <http://purl.org/ontology/TextualReknittings/Rewriter> ;
+                                                   rdfs:comment "Annotator and participant to the collective rewriting (anonymous)." .
+
+
+###  https://w3id.org/arco/ontology/core/e
+<https://w3id.org/arco/ontology/core/e> rdf:type owl:NamedIndividual ,
+                                                 <http://purl.org/ontology/TextualReknittings/Group> ,
+                                                 <http://purl.org/ontology/TextualReknittings/Individuator> ,
+                                                 <http://purl.org/ontology/TextualReknittings/Rewriter> ;
+                                        rdfs:comment "Participant to the collective rewriting (anonymous)." .
+
+
+###  https://w3id.org/arco/ontology/core/felixcat
+<https://w3id.org/arco/ontology/core/felixcat> rdf:type owl:NamedIndividual ,
+                                                        <http://purl.org/ontology/TextualReknittings/Annotator> ,
+                                                        <http://purl.org/ontology/TextualReknittings/Group> ,
+                                                        <http://purl.org/ontology/TextualReknittings/Individual> ,
+                                                        <http://purl.org/ontology/TextualReknittings/Individuator> ,
+                                                        <http://purl.org/ontology/TextualReknittings/Rewriter> ;
+                                               rdfs:comment "Annotator and participant to the collective rewriting (anonymous)." .
+
+
+###  https://w3id.org/arco/ontology/core/goosey
+<https://w3id.org/arco/ontology/core/goosey> rdf:type owl:NamedIndividual ,
+                                                      <http://purl.org/ontology/TextualReknittings/Annotator> ,
+                                                      <http://purl.org/ontology/TextualReknittings/Individual> ,
+                                                      <http://purl.org/ontology/TextualReknittings/Individuator> ;
+                                             rdfs:comment "Annotator (anonymous)." .
+
+
+###  https://w3id.org/arco/ontology/core/hd_onions
+<https://w3id.org/arco/ontology/core/hd_onions> rdf:type owl:NamedIndividual ,
+                                                         <http://purl.org/ontology/TextualReknittings/Annotator> ,
+                                                         <http://purl.org/ontology/TextualReknittings/Individual> ,
+                                                         <http://purl.org/ontology/TextualReknittings/Individuator> ;
+                                                rdfs:comment "Annotator (anonymous)." .
+
+
+###  https://w3id.org/arco/ontology/core/subsignal
+<https://w3id.org/arco/ontology/core/subsignal> rdf:type owl:NamedIndividual ,
+                                                         <http://purl.org/ontology/TextualReknittings/Annotator> ,
+                                                         <http://purl.org/ontology/TextualReknittings/Group> ,
+                                                         <http://purl.org/ontology/TextualReknittings/Individual> ,
+                                                         <http://purl.org/ontology/TextualReknittings/Individuator> ,
+                                                         <http://purl.org/ontology/TextualReknittings/Rewriter> ;
+                                                rdfs:comment "Annotator (anonymous)." .
+
+
+###  https://w3id.org/arco/ontology/core/-=H=-
+<https://w3id.org/arco/ontology/core/-=H=-> rdf:type owl:NamedIndividual ,
+                                                     <http://purl.org/ontology/TextualReknittings/Group> ,
+                                                     <http://purl.org/ontology/TextualReknittings/Individuator> ,
+                                                     <http://purl.org/ontology/TextualReknittings/Rewriter> ;
+                                            rdfs:comment "Participant to the collective rewriting (anonymous)." .
+
+
+###  https://w3id.org/arco/ontology/core/Solarpunk_&_the_Pedagogical_Value_of_Utopia
+<https://w3id.org/arco/ontology/core/Solarpunk_&_the_Pedagogical_Value_of_Utopia> rdf:type owl:NamedIndividual ,
+                                                                                           <http://purl.org/ontology/TextualReknittings/InitialText> ,
+                                                                                           <http://purl.org/ontology/TextualReknittings/Text> ;
+                                                                                  rdfs:comment "Chosen initial text." ;
+                                                                                  rdfs:seeAlso "http://www.susted.com/wordpress/content/solarpunk-the-pedagogical-value-of-utopia_2020_05/" .
+
+
+#################################################################
+#    General axioms
+#################################################################
+
+[ rdf:type owl:AllDisjointClasses ;
+  owl:members ( <http://purl.org/ontology/TextualReknittings/Affection>
+                <http://purl.org/ontology/TextualReknittings/Approval>
+                <http://purl.org/ontology/TextualReknittings/Citation>
+                <http://purl.org/ontology/TextualReknittings/Commentary>
+                <http://purl.org/ontology/TextualReknittings/Disapproval>
+                <http://purl.org/ontology/TextualReknittings/Important>
+                <http://purl.org/ontology/TextualReknittings/Key-word>
+                <http://purl.org/ontology/TextualReknittings/Trouble>
+              )
+] .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
