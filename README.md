@@ -12,11 +12,10 @@ Our experiment used the social, web annotation tool [Hypothes.is](https://web.hy
 The API gave us the main material to produce [a web-archive of all annotations](https://networkcultures.org/reading-group/textual-reknittings/annotation-archive/all-annotations.html). 
 
 In this repository, you will find:
-- the raw data of the annotations in json and csv format
-- the Jupyter notebook for making some visualizations and charts of the data in Python, using Pandas and MatPlotLib
-- a Gephi network visualization file, with its respective nodes and edges xlsx files
-- a proposed ontology for the data of the digital social text, in OWL, RDF and TTL formats
+- the raw data of the annotations in json and csv format;
+- the Jupyter notebook for making some visualizations and charts of the data in Python, using Pandas and MatPlotLib;
+- a Gephi network visualization file, with its respective nodes and edges xlsx files;
+- an initial ontology for the digital social text "universe", in OWL, RDF and TTL formats.
 
-This data and code serves the purpose of providing figures to analyze as part of the thesis "Towards a Digital Republic of Letters? Analyses and Propositions for the Digital Social Text", to be sumbitted and presented during the second final exam session of late october-early november 2023, in Aula Affreschi (Via Zamboni 34, Bologna, Italy). If the annotation data of the experiment is published publically on this GitHub repository, it is solely for the academic intent to take a look at the source data and the code used to make vizualizations on it: that is, for transparency reasons. In no way can this data be used commercially or for other non-academic purposes. The ontology files are prototypical propositions, which can be re-used and transformed, ameliorated, given that the credits to this project are provided. 
+This data and code serves the purpose of providing figures to analyze as part of [the thesis "Towards a Digital Republic of Letters? Analyses and Propositions for the Digital Social Text"]([url](https://networkcultures.org/reading-group/digital-social-text.pdf)), to be sumbitted and presented during the second final exam session of late october 2023, in Aula Affreschi (Via Zamboni 34, Bologna, Italy). If the annotation data of the experiment is published publically on this GitHub repository, it is solely for the academic intent to take a look at the source data and the code used to make vizualizations on it: that is, for transparency reasons. In no way can this data be used commercially or for other non-academic purposes. The ontology is an initial prototype: it is encouraged to enrich its formalizaton with further specifications, using the appropriate controlled vocabularies. It can be freely worked upon, reused, and transfromed, given that a reference to this project is provided.
 
-Some other web archives and Python code is presented or mentionned within the final thesis paper itself. 
